@@ -1,0 +1,891 @@
+soa_label	protestant_trouble_deaths	catholic_trouble_deaths	total_population	urban	protestant_stronghold	catholic_stronghold	income_deprivation	violent_crime_rate	asb_rate	republican_PSAs	loyalist_PSAs	protestant_trouble_deaths_enforcement	catholic_trouble_deaths_enforcement	catholic_no_go	protestant_no_go
+"Aldergrove_1"	1	0	1113	"FALSE"	"FALSE"	"FALSE"	0.085	5.1	3.5	0	0	0	0	0	0
+"Aldergrove_2"	0	0	1829	"FALSE"	"FALSE"	"FALSE"	0.094	3	4.8	0	0	0	0	0	0
+"Aldergrove_3"	0	0	1502	"FALSE"	"FALSE"	"FALSE"	0.114	4.3	7.2	0	0	0	0	0	0
+"Balloo"	0	0	1734	"FALSE"	"FALSE"	"FALSE"	0.094	24.5	45.8	0	0	0	0	0	0
+"Ballycraigy"	0	0	1822	"TRUE"	"TRUE"	"FALSE"	0.143	17.2	26.4	0	1	0	0	0	0
+"Clady"	1	0	3013	"FALSE"	"FALSE"	"FALSE"	0.127	6.7	8.6	0	0	0	0	0	0
+"Cranfield"	0	0	2701	"FALSE"	"FALSE"	"FALSE"	0.12	7.1	7.6	0	0	0	0	0	0
+"Crumlin_1_Antrim"	0	0	1953	"TRUE"	"FALSE"	"FALSE"	0.094	14.5	36.9	0	1	0	0	0	0
+"Crumlin_2_Antrim"	0	0	2694	"TRUE"	"FALSE"	"FALSE"	0.107	14.9	38.4	0	0	0	0	0	0
+"Drumanaway"	0	0	2140	"FALSE"	"FALSE"	"FALSE"	0.128	6.8	18.3	0	0	0	0	0	0
+"Farranshane"	0	0	1698	"TRUE"	"FALSE"	"FALSE"	0.141	18.7	44	0	0	0	0	0	0
+"Fountain Hill"	0	0	2220	"TRUE"	"FALSE"	"FALSE"	0.136	17.6	31.2	0	0	0	0	0	0
+"Greystone_Antrim"	0	0	1953	"TRUE"	"FALSE"	"FALSE"	0.125	34.3	65.2	0	0	0	0	0	0
+"Massereene_1"	0	0	2800	"TRUE"	"FALSE"	"FALSE"	0.085	26.8	44.4	0	0	0	0	0	0
+"Massereene_2"	0	0	2564	"TRUE"	"FALSE"	"FALSE"	0.075	10.6	21.5	0	0	0	0	0	0
+"Parkgate"	0	0	2775	"FALSE"	"TRUE"	"FALSE"	0.112	7.6	12.7	0	0	0	0	0	0
+"Randalstown_1"	0	0	1745	"TRUE"	"FALSE"	"FALSE"	0.086	15.3	22.5	0	0	0	0	0	0
+"Randalstown_2"	0	0	1562	"TRUE"	"FALSE"	"FALSE"	0.09	14	22.4	0	0	0	0	0	0
+"Shilvodan"	5	0	2349	"FALSE"	"FALSE"	"FALSE"	0.105	3.9	6.5	0	0	2	0	0	0
+"Springfarm_1"	0	0	2641	"TRUE"	"FALSE"	"FALSE"	0.107	19.2	32.4	0	0	0	0	0	0
+"Springfarm_2"	0	0	1545	"TRUE"	"FALSE"	"FALSE"	0.134	17.1	31.9	0	0	0	0	0	0
+"Steeple"	0	0	1807	"TRUE"	"FALSE"	"FALSE"	0.111	19.2	40	0	0	0	0	0	0
+"Stiles"	0	0	2142	"TRUE"	"FALSE"	"FALSE"	0.108	14.3	45	0	0	0	0	0	0
+"Templepatrick"	0	0	2439	"FALSE"	"FALSE"	"FALSE"	0.09	9	12.5	0	0	0	0	0	0
+"Toome"	0	0	2687	"FALSE"	"FALSE"	"TRUE"	0.121	8.8	11.4	0	0	0	0	0	0
+"Ballygowan_1"	0	0	1574	"FALSE"	"FALSE"	"FALSE"	0.111	1.8	8.3	0	0	0	0	0	0
+"Ballygowan_2"	0	0	2035	"FALSE"	"TRUE"	"FALSE"	0.105	9.2	22.2	0	0	0	0	0	0
+"Ballyrainey"	0	0	2347	"FALSE"	"FALSE"	"FALSE"	0.145	13.7	30.9	0	2	0	0	0	0
+"Ballywalter_1"	0	0	2026	"FALSE"	"TRUE"	"FALSE"	0.158	14.7	32.2	0	1	0	0	0	0
+"Ballywalter_2"	0	0	2193	"FALSE"	"TRUE"	"FALSE"	0.156	8.4	23.2	0	2	0	0	0	0
+"Bradshaw's Brae_1"	0	0	1438	"TRUE"	"TRUE"	"FALSE"	0.111	29.9	57.6	0	0	0	0	0	0
+"Bradshaw's Brae_2"	0	0	1610	"FALSE"	"TRUE"	"FALSE"	0.108	4	16	0	0	0	0	0	0
+"Carrowdore_1"	0	0	1490	"FALSE"	"TRUE"	"FALSE"	0.14	6.7	11.6	0	0	1	0	0	0
+"Carrowdore_2"	0	0	1911	"FALSE"	"TRUE"	"FALSE"	0.113	10.7	21.2	0	0	0	0	0	0
+"Central_Ards"	0	0	2870	"TRUE"	"FALSE"	"FALSE"	0.188	35	76.1	0	0	0	0	0	0
+"Comber East_1"	0	0	1658	"TRUE"	"TRUE"	"FALSE"	0.148	20.4	60.9	0	1	0	0	0	0
+"Comber East_2"	0	0	1295	"TRUE"	"TRUE"	"FALSE"	0.114	5.6	17.6	0	0	0	0	0	0
+"Comber North_1"	1	0	1331	"TRUE"	"TRUE"	"FALSE"	0.101	14.7	40.9	0	0	0	0	0	0
+"Comber North_2"	0	0	1294	"TRUE"	"TRUE"	"FALSE"	0.111	2.4	8.3	0	0	1	0	0	0
+"Comber West_1"	0	0	1325	"TRUE"	"TRUE"	"FALSE"	0.132	5.2	16.6	0	0	0	0	0	0
+"Comber West_2"	0	0	1618	"FALSE"	"TRUE"	"FALSE"	0.108	5	11.8	0	0	0	0	0	0
+"Donaghadee North_1"	0	0	1690	"TRUE"	"TRUE"	"FALSE"	0.135	19	55.3	0	0	0	0	0	0
+"Donaghadee North_2"	0	0	1637	"FALSE"	"TRUE"	"FALSE"	0.111	6.3	11.9	0	0	0	0	0	0
+"Donaghadee South_1"	0	0	1408	"TRUE"	"TRUE"	"FALSE"	0.157	12.8	30.3	0	0	0	0	0	0
+"Donaghadee South_2"	0	0	1547	"TRUE"	"TRUE"	"FALSE"	0.116	6.9	15	0	0	0	0	0	0
+"Glen_1"	0	0	1440	"TRUE"	"FALSE"	"FALSE"	0.184	20	53.4	0	0	0	0	0	0
+"Glen_2"	0	0	1336	"TRUE"	"TRUE"	"FALSE"	0.127	6.4	20.2	0	1	0	0	0	0
+"Gregstown_1"	0	0	1392	"TRUE"	"TRUE"	"FALSE"	0.165	12.4	26.6	0	1	0	0	0	0
+"Gregstown_2"	0	0	1472	"TRUE"	"TRUE"	"FALSE"	0.14	15.3	33.2	0	0	0	0	0	0
+"Gregstown_3"	0	0	1580	"TRUE"	"TRUE"	"FALSE"	0.105	3.5	18.6	0	0	0	0	0	0
+"Killinchy_1"	0	0	1510	"FALSE"	"TRUE"	"FALSE"	0.123	2.9	4.8	0	0	0	0	0	0
+"Killinchy_2"	1	0	1606	"FALSE"	"TRUE"	"FALSE"	0.11	3.8	11	0	0	0	0	0	0
+"Kircubbin_1"	0	0	2005	"FALSE"	"FALSE"	"FALSE"	0.142	4.3	11.6	0	0	0	0	0	0
+"Kircubbin_2"	0	0	1484	"FALSE"	"FALSE"	"FALSE"	0.162	17.7	37.7	0	0	0	0	0	0
+"Lisbane_1"	0	0	1533	"FALSE"	"TRUE"	"FALSE"	0.09	3.2	10.7	0	0	0	0	0	0
+"Lisbane_2"	0	0	1603	"FALSE"	"TRUE"	"FALSE"	0.124	4.1	8.6	0	0	0	0	0	0
+"Loughries_1"	0	0	1793	"TRUE"	"TRUE"	"FALSE"	0.134	11.4	20.6	0	2	0	0	0	0
+"Loughries_2"	0	0	1763	"FALSE"	"TRUE"	"FALSE"	0.121	9.1	16.2	0	1	0	0	0	0
+"Millisle_1"	0	0	1688	"FALSE"	"TRUE"	"FALSE"	0.147	15.6	48.8	0	0	0	0	0	0
+"Millisle_2"	0	0	2591	"FALSE"	"TRUE"	"FALSE"	0.139	6.3	12.7	0	0	0	0	0	0
+"Movilla_1"	0	0	1613	"TRUE"	"FALSE"	"FALSE"	0.122	10.1	17	0	0	0	0	0	0
+"Movilla_2"	0	0	1784	"TRUE"	"TRUE"	"FALSE"	0.122	3.1	17.7	0	0	0	0	0	0
+"Movilla_3"	0	0	1391	"TRUE"	"TRUE"	"FALSE"	0.086	2.9	10.9	0	0	0	0	0	0
+"Portaferry_1"	0	0	1889	"FALSE"	"FALSE"	"FALSE"	0.132	8.5	19.9	0	0	0	0	0	0
+"Portaferry_2"	0	0	1524	"FALSE"	"FALSE"	"TRUE"	0.115	14.1	26.4	0	0	0	0	0	0
+"Portavogie_1"	2	0	2387	"FALSE"	"TRUE"	"FALSE"	0.153	10.4	38.3	0	0	1	0	0	0
+"Portavogie_2"	0	0	2332	"FALSE"	"FALSE"	"FALSE"	0.127	7.7	25.1	0	0	0	0	0	0
+"Scrabo_1"	0	0	1557	"TRUE"	"TRUE"	"FALSE"	0.153	16.4	30.2	0	2	0	0	0	0
+"Scrabo_2"	0	0	1483	"TRUE"	"TRUE"	"FALSE"	0.199	19	39.7	0	6	0	0	0	0
+"Whitespots_1"	0	0	1540	"TRUE"	"FALSE"	"FALSE"	0.096	9.3	21.2	0	0	0	0	0	0
+"Whitespots_2"	0	0	1485	"FALSE"	"TRUE"	"FALSE"	0.066	2.5	8.1	0	0	0	0	0	0
+"Abbey Park"	0	1	2558	"TRUE"	"FALSE"	"TRUE"	0.127	16.6	24.3	0	0	0	0	0	0
+"Ballymartrim"	0	0	2725	"FALSE"	"FALSE"	"FALSE"	0.144	4.7	4.8	0	0	0	0	0	0
+"Callan Bridge"	0	1	2817	"TRUE"	"FALSE"	"TRUE"	0.202	35.9	74.7	0	0	0	0	0	0
+"Carrigatuke"	0	2	2440	"FALSE"	"FALSE"	"FALSE"	0.178	6.2	7.7	0	0	0	0	0	0
+"Charlemont"	1	0	2774	"FALSE"	"FALSE"	"FALSE"	0.158	7.1	7	0	0	0	0	0	0
+"Demesne_1"	0	0	1468	"TRUE"	"FALSE"	"FALSE"	0.092	11.2	30.1	0	0	0	0	0	0
+"Demesne_2"	0	0	1308	"TRUE"	"FALSE"	"FALSE"	0.123	25.5	35.9	0	0	0	0	0	0
+"Derrynoose"	0	1	3475	"FALSE"	"FALSE"	"FALSE"	0.196	7.4	9.6	0	0	0	0	0	0
+"Downs"	0	1	2565	"TRUE"	"FALSE"	"TRUE"	0.157	23.6	44.4	0	0	0	0	0	0
+"Hamiltonsbawn_1"	0	0	1496	"FALSE"	"FALSE"	"FALSE"	0.119	4.2	6.3	0	0	0	0	0	0
+"Hamiltonsbawn_2"	0	0	1858	"FALSE"	"TRUE"	"FALSE"	0.115	5.8	9.6	0	0	0	0	0	0
+"Hockley"	0	0	2577	"FALSE"	"FALSE"	"FALSE"	0.102	6.3	8.2	0	0	0	0	0	0
+"Keady"	0	3	1795	"FALSE"	"FALSE"	"TRUE"	0.211	15.3	29	0	0	0	0	0	0
+"Killeen"	0	0	2785	"FALSE"	"FALSE"	"FALSE"	0.15	5.5	7.3	0	0	0	1	0	0
+"Killylea"	0	1	2474	"FALSE"	"FALSE"	"FALSE"	0.148	5.1	6.7	0	0	0	0	0	0
+"Laurelvale"	0	0	3035	"FALSE"	"FALSE"	"FALSE"	0.117	7.8	12	0	0	0	0	0	0
+"Loughgall"	0	0	2903	"FALSE"	"FALSE"	"FALSE"	0.144	4.2	5.2	0	0	0	0	0	0
+"Markethill"	0	0	2820	"FALSE"	"FALSE"	"FALSE"	0.167	8.6	17.7	0	0	0	0	0	0
+"Milford"	0	0	2730	"FALSE"	"FALSE"	"FALSE"	0.124	6.8	11.9	0	0	0	0	0	0
+"Observatory"	0	0	2342	"FALSE"	"FALSE"	"FALSE"	0.155	10.8	19.5	0	0	0	0	0	0
+"Poyntz Pass"	1	0	2720	"FALSE"	"FALSE"	"FALSE"	0.169	7.2	9.2	0	0	0	0	0	0
+"Rich Hill_1"	0	0	1308	"FALSE"	"TRUE"	"FALSE"	0.084	4.5	6.5	0	0	0	0	0	0
+"Rich Hill_2"	0	0	1702	"FALSE"	"TRUE"	"FALSE"	0.107	8.9	11.8	0	0	0	0	0	0
+"Tandragee"	0	0	2925	"FALSE"	"FALSE"	"FALSE"	0.159	14.8	37.3	0	0	0	0	0	0
+"The Mall"	0	0	1740	"TRUE"	"FALSE"	"FALSE"	0.164	16	28.1	0	0	0	0	0	0
+"Academy"	0	0	2099	"TRUE"	"FALSE"	"FALSE"	0.127	10.8	19	0	0	0	0	0	0
+"Ahoghill_1"	0	0	1453	"FALSE"	"TRUE"	"FALSE"	0.08	8.3	17.4	0	0	0	0	0	0
+"Ahoghill_2"	0	0	2435	"FALSE"	"TRUE"	"FALSE"	0.084	5	8	0	0	0	0	0	0
+"Ardeevin"	0	0	3503	"TRUE"	"FALSE"	"FALSE"	0.084	7.5	19.8	0	0	0	0	0	0
+"Ballee"	1	0	1926	"TRUE"	"TRUE"	"FALSE"	0.165	26.6	47.4	0	1	1	0	0	0
+"Ballykeel"	0	0	1739	"TRUE"	"TRUE"	"FALSE"	0.19	18	37.6	0	1	0	0	0	0
+"Ballyloughan"	0	0	2588	"TRUE"	"FALSE"	"FALSE"	0.053	6.6	12	0	0	0	0	0	0
+"Broughshane_1"	1	0	1596	"FALSE"	"TRUE"	"FALSE"	0.114	6.6	11.3	0	0	0	0	0	0
+"Broughshane_2"	0	0	1767	"FALSE"	"TRUE"	"FALSE"	0.109	9	15	0	0	0	0	0	0
+"Castle Demesne"	0	0	2126	"TRUE"	"FALSE"	"FALSE"	0.162	48.3	93.8	0	0	0	0	0	0
+"Craigywarren"	0	0	2590	"FALSE"	"TRUE"	"FALSE"	0.133	5.8	8	0	0	0	0	0	0
+"Cullybackey"	0	0	2805	"FALSE"	"TRUE"	"FALSE"	0.102	14.7	30	0	0	0	0	0	0
+"Dunclug"	0	0	2363	"TRUE"	"FALSE"	"FALSE"	0.16	27.4	46.5	1	1	0	0	0	0
+"Dunminning"	0	0	2610	"FALSE"	"FALSE"	"FALSE"	0.125	2.8	4.8	0	0	0	0	0	0
+"Fair Green"	0	0	1784	"TRUE"	"FALSE"	"FALSE"	0.171	12.5	32.5	0	0	0	0	0	0
+"Galgorm_1"	0	0	1603	"FALSE"	"TRUE"	"FALSE"	0.077	5	12.9	0	0	0	0	0	0
+"Galgorm_2"	0	0	1674	"FALSE"	"FALSE"	"FALSE"	0.086	8.1	7.4	0	0	0	0	0	0
+"Glenravel"	0	0	3451	"FALSE"	"FALSE"	"FALSE"	0.109	4.5	7.2	0	0	0	0	0	0
+"Glenwhirry"	1	0	2981	"FALSE"	"FALSE"	"FALSE"	0.116	4.3	4.6	0	0	0	0	0	0
+"Grange"	0	0	3461	"FALSE"	"FALSE"	"FALSE"	0.112	4.6	4.6	0	0	0	0	0	0
+"Harryville"	0	0	1885	"TRUE"	"TRUE"	"FALSE"	0.152	39.4	70.2	0	0	0	0	0	0
+"Kells_1"	0	0	1904	"FALSE"	"TRUE"	"FALSE"	0.113	9.5	22.9	0	0	0	0	0	0
+"Kells_2"	0	0	1460	"FALSE"	"TRUE"	"FALSE"	0.117	4.9	8.1	0	0	0	0	0	0
+"Moat"	0	0	1746	"TRUE"	"TRUE"	"FALSE"	0.178	28.4	61.9	0	0	0	0	0	0
+"Park"	0	0	2139	"TRUE"	"FALSE"	"FALSE"	0.142	10.8	29.7	0	0	0	0	0	0
+"Portglenone_1"	0	0	1555	"FALSE"	"FALSE"	"FALSE"	0.119	23	23.4	0	0	0	0	0	0
+"Portglenone_2"	0	0	1581	"FALSE"	"FALSE"	"FALSE"	0.164	9.4	15.4	0	0	0	0	0	0
+"Slemish"	0	0	2509	"FALSE"	"FALSE"	"FALSE"	0.146	5.2	7.7	0	0	0	0	0	0
+"Summerfield"	0	0	2711	"TRUE"	"FALSE"	"FALSE"	0.071	6.6	16.3	0	0	0	0	0	0
+"Ballyhoe and Corkey"	0	0	1895	"FALSE"	"FALSE"	"TRUE"	0.138	5.7	7	0	0	0	0	0	0
+"Benvardin"	1	0	2095	"FALSE"	"TRUE"	"FALSE"	0.144	9.6	24.1	0	0	1	0	0	0
+"Carnany"	0	0	1999	"TRUE"	"FALSE"	"FALSE"	0.146	8	19.9	0	2	0	0	0	0
+"Clogh Mills"	0	0	1993	"FALSE"	"FALSE"	"FALSE"	0.14	7	11.8	0	0	0	0	0	0
+"Dervock"	0	0	1509	"FALSE"	"FALSE"	"FALSE"	0.16	8.4	11.2	0	0	0	0	0	0
+"Dunloy"	0	0	2278	"FALSE"	"FALSE"	"FALSE"	0.113	3.8	5.8	0	0	0	0	0	0
+"Fairhill"	0	0	1798	"TRUE"	"FALSE"	"FALSE"	0.122	8.6	13.7	0	0	0	0	0	0
+"Glebe"	0	0	1719	"TRUE"	"FALSE"	"FALSE"	0.097	10.7	41.3	0	0	0	0	0	0
+"Killoquin Lower"	0	0	1890	"FALSE"	"FALSE"	"FALSE"	0.12	5.2	8	1	1	0	0	0	0
+"Killoquin Upper"	0	0	1797	"FALSE"	"FALSE"	"FALSE"	0.113	8.8	12.4	0	0	0	0	0	0
+"Knockaholet"	0	0	1677	"FALSE"	"FALSE"	"FALSE"	0.111	4.4	5.6	0	0	0	0	0	0
+"Newhill"	0	0	2507	"TRUE"	"FALSE"	"FALSE"	0.172	9.9	22.2	0	3	0	0	0	0
+"Route"	1	0	1529	"TRUE"	"FALSE"	"FALSE"	0.165	22.8	53.7	0	1	0	0	0	0
+"Seacon"	0	0	2684	"FALSE"	"FALSE"	"FALSE"	0.122	7.2	18.9	0	0	0	0	0	0
+"Stranocum"	0	0	1728	"FALSE"	"FALSE"	"FALSE"	0.126	5.1	8.1	0	0	0	0	0	0
+"The Vow"	0	0	2126	"FALSE"	"FALSE"	"FALSE"	0.145	5.7	9.3	0	0	0	0	0	0
+"Ballydown_1"	0	0	2129	"TRUE"	"FALSE"	"FALSE"	0.098	6	15.1	0	0	0	0	0	0
+"Ballydown_2"	0	0	2667	"TRUE"	"FALSE"	"FALSE"	0.103	6.2	16	0	0	0	0	0	0
+"Ballyward"	0	1	2817	"FALSE"	"FALSE"	"FALSE"	0.174	5.8	6.5	0	0	0	0	0	0
+"Banbridge West"	0	0	3006	"TRUE"	"FALSE"	"FALSE"	0.134	14.1	23.3	0	0	0	0	0	0
+"Bannside"	0	0	2629	"FALSE"	"FALSE"	"FALSE"	0.153	4.8	10.1	0	0	0	0	0	0
+"Dromore North"	0	0	2563	"FALSE"	"FALSE"	"FALSE"	0.138	11.6	19.6	0	0	0	0	0	0
+"Dromore South_1"	0	0	2036	"TRUE"	"FALSE"	"FALSE"	0.102	5.8	15.2	0	0	0	0	0	0
+"Dromore South_2"	0	0	2080	"FALSE"	"FALSE"	"FALSE"	0.096	5	8.9	0	0	0	0	0	0
+"Edenderry"	0	0	2769	"TRUE"	"FALSE"	"FALSE"	0.138	20.5	50.6	0	0	0	0	0	0
+"Fort"	0	0	2364	"TRUE"	"FALSE"	"FALSE"	0.108	18.8	39.7	0	0	0	0	0	0
+"Gilford"	0	0	2522	"FALSE"	"FALSE"	"FALSE"	0.137	16	26.1	0	0	0	0	0	0
+"Gransha"	0	0	3473	"FALSE"	"FALSE"	"FALSE"	0.145	4.7	6.1	0	0	0	0	0	0
+"Katesbridge"	0	0	2582	"FALSE"	"FALSE"	"FALSE"	0.148	3.6	5.3	0	0	0	0	0	0
+"Lawrencetown"	0	0	2724	"FALSE"	"FALSE"	"FALSE"	0.128	10.8	19.4	0	0	0	0	0	0
+"Loughbrickland"	0	0	2708	"FALSE"	"FALSE"	"FALSE"	0.139	9.9	21.5	0	0	0	0	0	0
+"Quilly"	0	0	2432	"FALSE"	"FALSE"	"FALSE"	0.123	2.7	5.9	0	0	0	0	0	0
+"Rathfriland"	0	0	2740	"FALSE"	"FALSE"	"FALSE"	0.152	11.1	26	0	0	0	0	0	0
+"Seapatrick"	0	0	2374	"FALSE"	"FALSE"	"FALSE"	0.11	10	21.6	0	1	0	0	0	0
+"The Cut"	0	0	1724	"TRUE"	"FALSE"	"FALSE"	0.158	75.5	121.3	0	0	0	0	0	0
+"Andersonstown_1"	0	1	1768	"TRUE"	"FALSE"	"TRUE"	0.085	13.9	22.3	0	0	0	1	1	0
+"Andersonstown_2"	0	2	1523	"TRUE"	"FALSE"	"TRUE"	0.112	30.9	72.7	0	0	0	0	1	0
+"Andersonstown_3"	0	1	1616	"TRUE"	"FALSE"	"TRUE"	0.128	8.7	31.3	0	0	0	0	1	0
+"Ardoyne_1"	0	2	1745	"TRUE"	"FALSE"	"TRUE"	0.206	40.1	42.8	1	0	0	0	1	0
+"Ardoyne_2"	0	4	2018	"TRUE"	"FALSE"	"TRUE"	0.246	32.7	40.9	2	0	0	0	1	0
+"Ardoyne_3"	2	1	2224	"TRUE"	"FALSE"	"TRUE"	0.186	45	76.7	1	0	0	0	1	0
+"Ballyhackamore_1"	0	0	2003	"TRUE"	"FALSE"	"FALSE"	0.08	10.3	17.1	0	0	0	0	0	0
+"Ballyhackamore_2"	0	0	1833	"TRUE"	"FALSE"	"FALSE"	0.086	9.7	23.1	0	0	0	0	0	0
+"Ballyhackamore_3"	0	0	2103	"TRUE"	"FALSE"	"FALSE"	0.107	17.5	34.4	0	2	0	0	0	0
+"Ballymacarrett_1"	0	9	1708	"TRUE"	"FALSE"	"FALSE"	0.149	25.1	51	0	0	0	0	1	1
+"Ballymacarrett_2"	0	3	1564	"TRUE"	"FALSE"	"FALSE"	0.125	42.6	90.1	0	0	0	1	1	1
+"Ballymacarrett_3"	0	0	1636	"TRUE"	"TRUE"	"FALSE"	0.182	42.7	46.9	0	1	0	0	1	1
+"Ballynafeigh_1"	1	0	1813	"TRUE"	"FALSE"	"FALSE"	0.092	18.1	48.1	0	0	2	0	0	1
+"Ballynafeigh_2"	1	0	2009	"TRUE"	"FALSE"	"FALSE"	0.086	9.5	23.2	0	0	0	0	0	1
+"Ballynafeigh_3"	2	0	2106	"TRUE"	"FALSE"	"FALSE"	0.15	27.2	52.8	0	3	2	0	0	1
+"Ballysillan_1"	2	0	1925	"TRUE"	"TRUE"	"FALSE"	0.167	21.3	50.8	0	0	1	0	0	0
+"Ballysillan_2"	1	0	1779	"TRUE"	"TRUE"	"FALSE"	0.117	18.8	36.3	0	0	0	0	0	0
+"Ballysillan_3"	1	0	1922	"TRUE"	"TRUE"	"FALSE"	0.126	9.9	22.6	0	0	2	0	0	0
+"Beechmount_1"	0	3	1862	"TRUE"	"FALSE"	"TRUE"	0.103	42.4	41.4	0	0	0	0	0	0
+"Beechmount_2"	0	2	1922	"TRUE"	"FALSE"	"TRUE"	0.158	19.6	25.6	0	0	0	1	0	0
+"Beechmount_3"	0	2	1701	"TRUE"	"FALSE"	"TRUE"	0.121	26.2	52.2	3	0	0	0	0	0
+"Bellevue_1"	0	1	1394	"TRUE"	"FALSE"	"FALSE"	0.126	14.2	30.8	0	0	0	0	0	0
+"Bellevue_2"	0	0	1730	"TRUE"	"FALSE"	"FALSE"	0.176	26.2	40.9	0	0	0	0	0	0
+"Bellevue_3"	0	0	1786	"TRUE"	"FALSE"	"FALSE"	0.145	17.2	40.7	0	0	0	0	0	0
+"Belmont_1"	0	0	2151	"TRUE"	"TRUE"	"FALSE"	0.057	4.1	10.9	0	0	0	0	0	0
+"Belmont_2"	0	0	1896	"TRUE"	"TRUE"	"FALSE"	0.073	7.1	13.3	0	0	0	0	0	0
+"Belmont_3"	1	0	2118	"TRUE"	"TRUE"	"FALSE"	0.108	17.7	35.4	0	0	0	0	0	0
+"Blackstaff_1"	2	0	1826	"TRUE"	"FALSE"	"FALSE"	0.203	19	26.9	0	1	0	0	0	0
+"Blackstaff_2"	2	1	2172	"TRUE"	"FALSE"	"FALSE"	0.166	31.4	39.7	0	0	0	0	0	0
+"Bloomfield_1_Belfast"	0	0	1895	"TRUE"	"FALSE"	"FALSE"	0.154	38.4	59.5	0	2	0	0	0	0
+"Bloomfield_2_Belfast"	0	0	1687	"TRUE"	"FALSE"	"FALSE"	0.107	14.6	20.6	0	0	0	0	0	0
+"Bloomfield_3_Belfast"	0	0	1871	"TRUE"	"FALSE"	"FALSE"	0.151	24.4	41.6	0	1	0	0	0	0
+"Botanic_1"	0	0	1555	"TRUE"	"FALSE"	"FALSE"	0.136	42.9	55.6	0	0	0	0	0	0
+"Botanic_2"	0	2	1958	"TRUE"	"FALSE"	"FALSE"	0.121	21.7	133.2	0	0	1	0	0	0
+"Botanic_3"	0	1	1488	"TRUE"	"FALSE"	"FALSE"	0.124	35.9	122.3	0	0	0	0	0	0
+"Botanic_4"	2	3	1703	"TRUE"	"FALSE"	"FALSE"	0.174	29.9	54.1	0	0	0	1	0	0
+"Botanic_5"	1	3	2241	"TRUE"	"FALSE"	"TRUE"	0.154	47.4	93.3	0	0	0	1	0	0
+"Castleview_1"	0	0	1333	"TRUE"	"FALSE"	"FALSE"	0.162	23.8	40.7	0	1	0	0	0	0
+"Castleview_2"	0	0	1752	"TRUE"	"FALSE"	"FALSE"	0.111	6.3	16.9	0	0	0	0	0	0
+"Castleview_3"	0	0	1637	"TRUE"	"FALSE"	"FALSE"	0.112	18.9	29.4	0	2	0	0	0	0
+"Cavehill_1"	0	0	1617	"TRUE"	"FALSE"	"FALSE"	0.066	10.5	41.1	0	0	0	0	0	0
+"Cavehill_2"	0	0	1597	"TRUE"	"FALSE"	"FALSE"	0.12	8.4	37.2	0	0	0	0	0	0
+"Cavehill_3"	1	0	1606	"TRUE"	"FALSE"	"FALSE"	0.052	6.6	31.4	0	0	0	0	0	0
+"Cherryvalley_1"	0	0	1959	"TRUE"	"FALSE"	"FALSE"	0.062	1.6	4.4	0	0	0	0	0	0
+"Cherryvalley_2"	0	0	2052	"TRUE"	"FALSE"	"FALSE"	0.077	6.8	15.7	0	0	0	0	0	0
+"Cherryvalley_3"	0	0	1909	"TRUE"	"FALSE"	"FALSE"	0.087	10.1	16	0	1	0	0	0	0
+"Chichester Park_1"	0	0	1996	"TRUE"	"FALSE"	"FALSE"	0.158	34.4	62.2	1	0	0	0	0	0
+"Chichester Park_2"	0	1	1970	"TRUE"	"FALSE"	"TRUE"	0.116	34	43.6	0	0	0	0	0	0
+"Chichester Park_3"	0	0	1486	"TRUE"	"FALSE"	"FALSE"	0.096	11.3	31.2	0	0	0	0	0	0
+"Cliftonville_1"	1	2	2031	"TRUE"	"FALSE"	"TRUE"	0.163	26.6	44.3	0	0	0	0	0	0
+"Cliftonville_2"	0	0	1595	"TRUE"	"FALSE"	"FALSE"	0.096	10.3	40.3	0	0	0	0	0	0
+"Cliftonville_3"	2	2	1704	"TRUE"	"FALSE"	"FALSE"	0.154	16.9	33.9	0	1	2	0	0	0
+"Clonard_1"	1	7	2553	"TRUE"	"FALSE"	"TRUE"	0.185	20.3	37.3	1	0	0	1	0	0
+"Clonard_2"	0	13	2422	"TRUE"	"FALSE"	"TRUE"	0.145	65.2	105	2	0	0	0	0	0
+"Crumlin_1_Belfast"	2	1	2019	"TRUE"	"TRUE"	"FALSE"	0.203	27.4	37.9	0	4	4	0	0	0
+"Crumlin_2_Belfast"	6	0	2563	"TRUE"	"FALSE"	"FALSE"	0.205	29.4	51.5	0	1	5	0	0	0
+"Duncairn_1"	10	1	2807	"TRUE"	"FALSE"	"FALSE"	0.196	28.6	46	0	2	1	0	0	0
+"Duncairn_2"	2	1	2094	"TRUE"	"FALSE"	"FALSE"	0.197	30.9	66.5	0	2	0	0	0	0
+"Falls_1"	0	11	1497	"TRUE"	"FALSE"	"TRUE"	0.156	13.8	26.2	3	0	1	1	1	0
+"Falls_2"	0	6	1752	"TRUE"	"FALSE"	"TRUE"	0.152	40.8	66.1	1	0	0	0	1	0
+"Falls_3"	0	10	1935	"TRUE"	"FALSE"	"TRUE"	0.179	49.7	117.9	1	1	0	2	1	0
+"Falls Park_1"	0	1	1687	"TRUE"	"FALSE"	"TRUE"	0.1	39.3	78.5	0	0	0	0	1	0
+"Falls Park_2"	0	1	1935	"TRUE"	"FALSE"	"TRUE"	0.091	23.8	31.8	0	0	0	1	1	0
+"Falls Park_3"	0	0	1721	"TRUE"	"FALSE"	"TRUE"	0.106	21.1	23.5	5	0	0	1	1	0
+"Finaghy_1"	0	0	1418	"TRUE"	"FALSE"	"FALSE"	0.076	2.4	6.3	0	0	0	0	0	0
+"Finaghy_2"	0	0	1552	"TRUE"	"FALSE"	"FALSE"	0.068	8.9	23.1	0	0	0	0	0	0
+"Finaghy_3"	0	0	1585	"TRUE"	"FALSE"	"FALSE"	0.085	5.1	12.1	0	0	0	0	0	0
+"Fortwilliam_1"	0	0	1388	"TRUE"	"FALSE"	"FALSE"	0.069	12.9	20.4	0	0	0	0	0	0
+"Fortwilliam_2"	1	0	1540	"TRUE"	"FALSE"	"FALSE"	0.131	15	40.3	0	2	0	0	0	0
+"Fortwilliam_3"	0	0	1633	"TRUE"	"FALSE"	"FALSE"	0.099	14.9	24.7	0	0	0	0	0	0
+"Glen Road_1"	0	3	2158	"TRUE"	"FALSE"	"TRUE"	0.131	30.3	29.2	2	0	0	2	0	0
+"Glen Road_2"	0	0	1839	"TRUE"	"FALSE"	"TRUE"	0.119	14.7	21.1	0	0	0	1	0	0
+"Glen Road_3"	0	3	1576	"TRUE"	"FALSE"	"TRUE"	0.151	20.6	22.1	0	0	0	0	0	0
+"Glencairn_1"	2	0	1995	"TRUE"	"TRUE"	"FALSE"	0.138	16.2	24.3	0	0	0	0	0	0
+"Glencairn_2"	3	0	1754	"TRUE"	"FALSE"	"FALSE"	0.158	25	31	0	0	0	0	0	0
+"Glencolin_1"	0	1	1548	"FALSE"	"FALSE"	"TRUE"	0.07	15.1	17.9	0	0	0	0	0	0
+"Glencolin_2"	0	3	1614	"TRUE"	"FALSE"	"TRUE"	0.135	27.7	41.5	0	0	0	0	0	0
+"Glencolin_3"	0	0	1705	"TRUE"	"FALSE"	"TRUE"	0.125	26.1	33.1	0	0	0	1	0	0
+"Glencolin_4"	0	0	1631	"TRUE"	"FALSE"	"TRUE"	0.122	30.8	41.9	0	0	0	0	0	0
+"Highfield_1"	3	0	2149	"TRUE"	"TRUE"	"FALSE"	0.11	9.1	15.9	0	0	1	0	0	0
+"Highfield_2"	0	0	1733	"TRUE"	"FALSE"	"FALSE"	0.105	9	15.3	0	1	1	0	0	0
+"Highfield_3"	1	1	1769	"TRUE"	"TRUE"	"FALSE"	0.19	21.3	27.1	0	2	1	0	0	0
+"Island_1"	4	0	2257	"TRUE"	"FALSE"	"FALSE"	0.133	33.1	25.5	0	0	2	0	0	0
+"Island_2"	2	0	2757	"TRUE"	"FALSE"	"FALSE"	0.133	21	34.3	0	1	1	0	0	0
+"Knock_1"	0	0	1604	"TRUE"	"TRUE"	"FALSE"	0.116	15	24	0	2	0	0	0	0
+"Knock_2"	0	0	1685	"TRUE"	"FALSE"	"FALSE"	0.08	5.5	10.7	0	0	0	0	0	0
+"Knock_3"	0	0	1538	"TRUE"	"TRUE"	"FALSE"	0.087	10.9	13.9	0	0	0	0	0	0
+"Ladybrook_1"	0	1	2227	"TRUE"	"FALSE"	"TRUE"	0.07	6.2	13.9	0	0	0	0	0	0
+"Ladybrook_2"	0	0	2032	"TRUE"	"FALSE"	"FALSE"	0.111	18.5	31.2	0	1	0	0	0	0
+"Ladybrook_3"	0	5	2260	"TRUE"	"FALSE"	"TRUE"	0.157	30.5	77.5	2	0	0	0	0	0
+"Legoniel_1"	4	0	3232	"FALSE"	"FALSE"	"FALSE"	0.154	25.4	40.3	0	0	0	0	0	0
+"Legoniel_2"	1	0	1553	"TRUE"	"FALSE"	"FALSE"	0.173	25.3	54.6	0	0	1	0	0	0
+"Legoniel_3"	4	1	1624	"TRUE"	"FALSE"	"FALSE"	0.121	19.2	34.6	0	0	0	0	0	0
+"Malone_1"	0	0	1951	"TRUE"	"FALSE"	"FALSE"	0.065	10.8	14.4	0	0	0	0	0	0
+"Malone_2"	0	0	1639	"TRUE"	"FALSE"	"FALSE"	0.073	5.9	14.6	0	0	0	0	0	0
+"Malone_3"	1	0	1965	"TRUE"	"FALSE"	"FALSE"	0.085	10.5	21.5	0	0	0	0	0	0
+"Musgrave_1"	0	0	1452	"TRUE"	"FALSE"	"FALSE"	0.164	12.9	25.6	0	0	0	0	0	0
+"Musgrave_2"	0	3	1590	"TRUE"	"FALSE"	"TRUE"	0.066	11.6	35.6	0	0	0	0	0	0
+"Musgrave_3"	1	0	1885	"TRUE"	"FALSE"	"FALSE"	0.065	7.5	17.1	0	0	0	0	0	0
+"New Lodge_1"	0	2	1970	"TRUE"	"FALSE"	"TRUE"	0.15	58.5	69.4	5	0	0	0	0	0
+"New Lodge_2"	1	2	1478	"TRUE"	"FALSE"	"TRUE"	0.188	36.5	43.6	1	0	0	1	0	0
+"New Lodge_3"	0	0	1502	"TRUE"	"FALSE"	"TRUE"	0.163	33.5	51.2	1	0	0	1	0	0
+"Orangefield_1"	0	0	1794	"TRUE"	"FALSE"	"FALSE"	0.099	16.7	27.6	0	0	0	0	0	1
+"Orangefield_2"	0	0	1926	"TRUE"	"TRUE"	"FALSE"	0.086	3.3	14	0	0	0	0	0	1
+"Orangefield_3"	0	0	1899	"TRUE"	"TRUE"	"FALSE"	0.074	8.2	26.2	0	0	0	0	0	1
+"Ravenhill_1"	0	0	2082	"TRUE"	"FALSE"	"FALSE"	0.068	8.5	22.3	0	1	1	0	0	0
+"Ravenhill_2"	0	0	1826	"TRUE"	"FALSE"	"FALSE"	0.088	11.4	32.5	0	1	0	0	0	0
+"Ravenhill_3"	1	0	2133	"TRUE"	"FALSE"	"FALSE"	0.085	12	30.9	0	0	0	0	0	0
+"Rosetta_1"	0	0	3099	"TRUE"	"FALSE"	"FALSE"	0.103	7.9	19.1	0	0	0	0	0	0
+"Rosetta_2"	0	0	1880	"TRUE"	"FALSE"	"FALSE"	0.089	13.3	20.3	0	0	0	0	0	0
+"Rosetta_3"	0	4	1585	"TRUE"	"FALSE"	"FALSE"	0.054	4	15.8	0	0	0	0	0	0
+"Shaftesbury_1"	1	14	2409	"TRUE"	"FALSE"	"FALSE"	0.126	43.5	57.8	1	1	0	2	1	1
+"Shaftesbury_2"	1	3	2711	"TRUE"	"FALSE"	"FALSE"	0.129	60.9	85	0	4	0	0	1	1
+"Shaftesbury_3"	1	0	2094	"TRUE"	"FALSE"	"FALSE"	0.17	12.4	15.9	0	0	1	0	1	1
+"Shankill_1"	4	2	1697	"TRUE"	"TRUE"	"FALSE"	0.193	31.4	41.6	0	1	1	1	0	1
+"Shankill_2"	14	4	2119	"TRUE"	"TRUE"	"FALSE"	0.172	68.8	100.3	0	3	0	0	0	1
+"Stormont_1"	1	0	1926	"FALSE"	"TRUE"	"FALSE"	0.077	1.9	5.9	0	0	0	0	0	0
+"Stormont_2"	0	0	1524	"TRUE"	"FALSE"	"FALSE"	0.062	1.4	4.3	0	0	0	0	0	0
+"Stormont_3"	0	0	2098	"TRUE"	"FALSE"	"FALSE"	0.061	3.2	9.2	0	0	0	0	0	0
+"Stranmillis_1"	0	0	1826	"TRUE"	"FALSE"	"FALSE"	0.075	2.6	8	0	0	0	0	0	0
+"Stranmillis_2"	0	1	1784	"TRUE"	"FALSE"	"FALSE"	0.017	2.7	6.3	0	0	0	0	0	0
+"Stranmillis_3"	0	0	2261	"TRUE"	"FALSE"	"FALSE"	0.085	4.6	37	0	0	0	0	0	0
+"Stranmillis_4"	0	0	2268	"TRUE"	"FALSE"	"FALSE"	0.08	5.1	14.2	0	0	0	0	0	0
+"Sydenham_1"	0	0	1480	"TRUE"	"TRUE"	"FALSE"	0.101	7.2	12.3	0	0	0	0	0	0
+"Sydenham_2"	0	0	1670	"TRUE"	"TRUE"	"FALSE"	0.098	8.1	20.2	0	0	0	0	0	0
+"Sydenham_3"	0	0	1724	"TRUE"	"FALSE"	"FALSE"	0.108	17.4	25.4	0	0	0	0	0	0
+"The Mount_1"	4	1	2864	"TRUE"	"FALSE"	"FALSE"	0.146	48.8	84	0	1	1	0	0	0
+"The Mount_2"	4	0	2727	"TRUE"	"FALSE"	"FALSE"	0.166	36.3	58	0	2	3	0	0	0
+"Upper Malone_1"	0	1	1670	"TRUE"	"FALSE"	"FALSE"	0.066	6.7	14.5	0	0	0	0	0	0
+"Upper Malone_2"	2	0	1554	"TRUE"	"TRUE"	"FALSE"	0.124	16.7	17.5	0	1	0	0	0	0
+"Upper Malone_3"	0	0	1617	"TRUE"	"FALSE"	"FALSE"	0.094	9.4	24.1	0	0	0	0	0	0
+"Upper Springfield_1"	0	1	1712	"TRUE"	"FALSE"	"TRUE"	0.117	33.9	33.1	5	0	0	1	1	0
+"Upper Springfield_2"	0	2	1874	"TRUE"	"FALSE"	"TRUE"	0.111	24.6	30.8	0	0	1	1	1	0
+"Upper Springfield_3"	0	4	1664	"TRUE"	"FALSE"	"TRUE"	0.128	26.7	27.5	3	0	0	2	1	0
+"Water Works_1"	2	2	2314	"TRUE"	"FALSE"	"TRUE"	0.179	45.9	74.9	2	0	2	0	0	0
+"Water Works_2"	2	0	1717	"TRUE"	"FALSE"	"TRUE"	0.21	40.1	96.7	1	0	0	0	0	0
+"Water Works_3"	1	1	1798	"TRUE"	"FALSE"	"TRUE"	0.168	55.7	115.7	0	0	0	1	0	0
+"Whiterock_1"	0	1	1615	"TRUE"	"FALSE"	"TRUE"	0.169	38.6	49.8	2	0	0	0	1	0
+"Whiterock_2"	0	3	2411	"TRUE"	"FALSE"	"TRUE"	0.144	20.4	27.4	2	0	0	0	1	0
+"Whiterock_3"	0	4	1668	"TRUE"	"FALSE"	"TRUE"	0.141	24.6	37.5	1	0	0	2	1	0
+"Windsor_1"	0	2	1662	"TRUE"	"FALSE"	"FALSE"	0.083	17.1	25.8	0	0	0	1	0	0
+"Windsor_2"	1	1	2270	"TRUE"	"FALSE"	"FALSE"	0.085	10.8	31.3	0	0	0	0	0	0
+"Windsor_3"	0	0	2142	"TRUE"	"FALSE"	"FALSE"	0.139	16.5	42.5	0	0	0	0	0	0
+"Windsor_4"	0	0	2067	"TRUE"	"FALSE"	"FALSE"	0.1	20	48.2	0	0	0	0	0	0
+"Woodstock_1"	2	0	1499	"TRUE"	"FALSE"	"FALSE"	0.157	30.8	40.6	0	0	0	0	0	0
+"Woodstock_2"	2	0	2061	"TRUE"	"FALSE"	"FALSE"	0.148	28	70.2	0	1	1	0	0	0
+"Woodstock_3"	0	0	1885	"TRUE"	"FALSE"	"FALSE"	0.163	27.1	45.3	0	0	0	0	0	0
+"Woodvale_1"	2	0	1353	"TRUE"	"TRUE"	"FALSE"	0.247	40.4	75.9	0	0	0	0	0	1
+"Woodvale_2"	4	0	1399	"TRUE"	"TRUE"	"FALSE"	0.206	38.8	50	0	1	1	0	0	1
+"Woodvale_3"	1	0	1336	"TRUE"	"TRUE"	"FALSE"	0.223	28.2	31	1	0	1	0	0	1
+"Blackhead"	0	0	2059	"FALSE"	"FALSE"	"FALSE"	0.111	8.9	27.3	0	0	0	0	0	0
+"Bluefield_1"	0	0	1358	"TRUE"	"TRUE"	"FALSE"	0.082	4	10.9	0	0	0	0	0	0
+"Bluefield_2"	0	0	1604	"TRUE"	"TRUE"	"FALSE"	0.093	4.5	11.2	0	0	0	0	0	0
+"Boneybefore"	0	0	1663	"TRUE"	"FALSE"	"FALSE"	0.079	6.6	18.4	0	0	0	0	0	0
+"Burleigh Hill_1"	0	0	1709	"TRUE"	"TRUE"	"FALSE"	0.066	4.5	10.6	0	0	0	0	0	0
+"Burleigh Hill_2"	0	0	1358	"TRUE"	"TRUE"	"FALSE"	0.039	7	13.4	0	0	0	0	0	0
+"Clipperstown"	0	0	2171	"TRUE"	"TRUE"	"FALSE"	0.127	19.1	31.8	0	1	0	0	0	0
+"Eden_1"	0	0	2231	"TRUE"	"TRUE"	"FALSE"	0.089	4.3	15.4	0	0	0	0	0	0
+"Eden_2"	0	0	2566	"TRUE"	"TRUE"	"FALSE"	0.117	7.1	20.1	0	0	0	0	0	0
+"Gortalee"	0	0	1493	"TRUE"	"TRUE"	"FALSE"	0.144	11.8	24.4	0	0	0	0	0	0
+"Greenisland"	0	0	2619	"TRUE"	"FALSE"	"FALSE"	0.08	6.7	14.2	0	1	0	0	0	0
+"Killycrot"	0	0	2620	"TRUE"	"FALSE"	"FALSE"	0.13	24	68.3	0	1	0	0	0	0
+"Knockagh"	0	0	2489	"TRUE"	"FALSE"	"FALSE"	0.066	4	20	0	0	0	0	0	0
+"Love Lane"	0	0	1417	"TRUE"	"TRUE"	"FALSE"	0.116	19.1	37.4	0	4	1	0	0	0
+"Milebush"	0	0	1552	"TRUE"	"TRUE"	"FALSE"	0.097	6.8	12.9	0	1	0	0	0	0
+"Northland"	0	0	1407	"TRUE"	"TRUE"	"FALSE"	0.192	13.1	23.5	0	1	1	0	0	0
+"Sunnylands"	0	0	1530	"TRUE"	"TRUE"	"FALSE"	0.127	19	36.7	0	0	0	0	0	0
+"Victoria_Carrickfergus"	0	0	2630	"TRUE"	"FALSE"	"FALSE"	0.102	11.4	24.5	0	0	0	0	0	0
+"Whitehead"	0	0	2159	"FALSE"	"FALSE"	"FALSE"	0.102	12.4	34.1	0	3	0	0	0	0
+"Woodburn"	0	0	2479	"TRUE"	"TRUE"	"FALSE"	0.119	8.7	17	0	0	0	0	0	0
+"Ballyhanwood_1"	1	0	1550	"TRUE"	"TRUE"	"FALSE"	0.097	5.5	10.9	0	0	0	0	0	0
+"Ballyhanwood_2"	0	0	1534	"FALSE"	"TRUE"	"FALSE"	0.077	7.7	17.2	0	0	0	0	0	0
+"Beechill_1"	0	0	1781	"TRUE"	"FALSE"	"FALSE"	0.067	5.1	5.1	0	0	0	0	0	0
+"Beechill_2"	0	0	1700	"TRUE"	"FALSE"	"FALSE"	0.079	6.7	13.9	0	0	0	0	0	0
+"Beechill_3"	0	0	1480	"TRUE"	"FALSE"	"FALSE"	0.1	12	21.1	0	0	0	0	0	0
+"Cairnshill_1"	0	0	1739	"TRUE"	"FALSE"	"FALSE"	0.064	1.7	6.5	0	0	0	0	0	0
+"Cairnshill_2"	0	0	1784	"TRUE"	"FALSE"	"FALSE"	0.058	5.1	14.3	0	0	0	0	0	0
+"Carrowreagh_1"	0	0	2352	"TRUE"	"TRUE"	"FALSE"	0.065	4.5	15	0	0	0	0	0	0
+"Carrowreagh_2"	0	0	1965	"TRUE"	"TRUE"	"FALSE"	0.115	5.9	17.5	0	1	0	0	0	0
+"Carryduff East_1"	0	0	1634	"FALSE"	"FALSE"	"FALSE"	0.072	6.4	8.2	0	0	0	0	0	0
+"Carryduff East_2"	0	0	1912	"TRUE"	"FALSE"	"FALSE"	0.095	6.5	11.7	0	0	0	0	0	0
+"Carryduff West_1"	0	0	1519	"TRUE"	"FALSE"	"FALSE"	0.066	3.4	13.1	0	0	0	0	0	0
+"Carryduff West_2"	0	0	1879	"TRUE"	"FALSE"	"FALSE"	0.07	6.8	17.3	0	0	0	0	0	0
+"Cregagh"	0	0	2090	"TRUE"	"TRUE"	"FALSE"	0.104	17.6	29.9	0	0	0	0	0	0
+"Downshire"	0	0	2417	"TRUE"	"FALSE"	"FALSE"	0.099	6.6	25.5	0	0	2	0	0	0
+"Dundonald_1"	0	0	1950	"TRUE"	"FALSE"	"FALSE"	0.089	11.5	19.2	0	0	0	0	0	0
+"Dundonald_2"	0	0	1413	"TRUE"	"TRUE"	"FALSE"	0.072	3.7	10	0	0	0	0	0	0
+"Enler"	0	0	2592	"TRUE"	"TRUE"	"FALSE"	0.108	11.5	22.7	0	0	0	0	0	0
+"Galwally"	0	0	2567	"TRUE"	"FALSE"	"FALSE"	0.051	14.1	14.3	0	0	0	0	0	0
+"Gilnahirk"	0	0	2512	"TRUE"	"TRUE"	"FALSE"	0.062	2.4	10.2	0	0	0	0	0	0
+"Graham's Bridge"	1	0	2702	"TRUE"	"TRUE"	"FALSE"	0.13	9.4	20.1	0	1	0	0	0	0
+"Hillfoot"	0	0	2561	"TRUE"	"FALSE"	"FALSE"	0.074	3.5	6.7	0	0	0	0	0	0
+"Knockbracken_1"	0	0	1793	"TRUE"	"FALSE"	"FALSE"	0.07	26.4	13.6	0	0	0	0	0	0
+"Knockbracken_2"	0	0	1564	"TRUE"	"FALSE"	"FALSE"	0.088	2.8	12.6	0	0	0	0	0	0
+"Lisnasharragh"	0	0	2126	"TRUE"	"TRUE"	"FALSE"	0.064	4.4	11.5	0	0	0	1	0	0
+"Lower Braniel"	0	0	2493	"TRUE"	"TRUE"	"FALSE"	0.099	7.7	19.4	0	0	0	0	0	0
+"Minnowburn"	0	0	2226	"TRUE"	"TRUE"	"FALSE"	0.099	11.7	31.2	0	1	0	0	0	0
+"Moneyreagh_1"	0	0	1826	"FALSE"	"FALSE"	"FALSE"	0.083	2.1	4.3	0	0	0	0	0	0
+"Moneyreagh_2"	0	0	1944	"FALSE"	"TRUE"	"FALSE"	0.076	5.4	14.8	0	0	0	0	0	0
+"Newtownbreda"	0	0	2780	"TRUE"	"FALSE"	"FALSE"	0.076	8.7	17.4	0	0	0	0	0	0
+"Tullycarnet"	0	0	2419	"TRUE"	"TRUE"	"FALSE"	0.13	14	17.2	0	1	0	0	0	0
+"Upper Braniel"	1	0	2248	"TRUE"	"TRUE"	"FALSE"	0.11	8.1	20.5	0	0	0	0	0	0
+"Wynchurch"	0	0	2190	"TRUE"	"FALSE"	"FALSE"	0.075	5.6	16.1	0	0	0	0	0	0
+"Agivey"	0	0	2499	"FALSE"	"FALSE"	"FALSE"	0.137	5.4	10.5	0	0	0	0	0	0
+"Atlantic"	0	0	2374	"TRUE"	"FALSE"	"FALSE"	0.171	24.2	41.1	0	0	0	0	0	0
+"Ballysally_1"	0	0	1406	"TRUE"	"FALSE"	"FALSE"	0.256	30.8	69.2	0	1	0	0	0	0
+"Ballysally_2"	0	0	1064	"TRUE"	"FALSE"	"FALSE"	0.161	18.5	49.3	0	0	0	0	0	0
+"Castlerock_1"	0	0	1546	"FALSE"	"FALSE"	"FALSE"	0.159	10.4	18.2	0	1	0	0	0	0
+"Castlerock_2"	0	0	1565	"FALSE"	"FALSE"	"FALSE"	0.161	7.9	16.4	0	0	0	0	0	0
+"Central_Coleraine"	0	0	1835	"TRUE"	"FALSE"	"FALSE"	0.175	45.1	107.2	0	2	0	0	0	0
+"Churchland"	0	0	2472	"TRUE"	"FALSE"	"FALSE"	0.157	23.1	60.7	0	0	0	0	0	0
+"Cross Glebe"	0	0	2665	"TRUE"	"FALSE"	"FALSE"	0.166	19.1	29.1	0	0	0	0	0	0
+"Dundooan_1"	0	0	1377	"FALSE"	"FALSE"	"FALSE"	0.133	15.3	35.4	0	0	0	0	0	0
+"Dundooan_2"	0	0	1899	"FALSE"	"FALSE"	"FALSE"	0.105	8.2	21.4	0	0	0	0	0	0
+"Dunluce"	1	0	1990	"FALSE"	"TRUE"	"FALSE"	0.141	14.8	8.9	0	0	1	0	0	0
+"Garvagh"	0	0	2795	"FALSE"	"FALSE"	"FALSE"	0.185	5.8	12.6	0	1	0	0	0	0
+"Hopefield_1"	0	0	1821	"TRUE"	"FALSE"	"FALSE"	0.123	11	16	0	0	0	0	0	0
+"Hopefield_2"	0	0	1949	"TRUE"	"FALSE"	"FALSE"	0.142	11.4	19.3	0	0	0	0	0	0
+"Kilrea"	0	0	2724	"FALSE"	"FALSE"	"FALSE"	0.153	8.7	15.5	0	0	0	1	0	0
+"Knocklynn_1"	0	0	2144	"TRUE"	"FALSE"	"FALSE"	0.144	5.2	16.8	0	0	0	0	0	0
+"Knocklynn_2"	0	0	1751	"TRUE"	"FALSE"	"FALSE"	0.132	4.3	10	0	0	0	0	0	0
+"Macosquin"	0	0	2325	"FALSE"	"FALSE"	"FALSE"	0.14	10.7	20.5	0	0	0	0	0	0
+"Mount Sandel"	0	0	1879	"TRUE"	"FALSE"	"FALSE"	0.138	24.5	37.8	0	0	0	0	0	0
+"Portstewart"	0	0	1799	"TRUE"	"FALSE"	"FALSE"	0.162	63.7	82.2	0	0	0	0	0	0
+"Ringsend"	0	0	2455	"FALSE"	"FALSE"	"FALSE"	0.16	2.6	3.9	0	0	0	0	0	0
+"Royal Portrush"	0	0	2032	"TRUE"	"FALSE"	"FALSE"	0.204	71.1	90.7	0	0	0	0	0	0
+"Strand_1_Coleraine"	0	0	1690	"TRUE"	"FALSE"	"FALSE"	0.077	8.4	27.5	0	0	0	0	0	0
+"Strand_2_Coleraine"	0	0	1252	"TRUE"	"FALSE"	"FALSE"	0.077	9.2	51.7	0	0	0	0	0	0
+"The Cuts_1"	4	0	2173	"FALSE"	"FALSE"	"FALSE"	0.141	12.1	21.9	0	0	0	0	0	0
+"The Cuts_2"	0	0	1919	"TRUE"	"FALSE"	"FALSE"	0.122	15.8	27.4	0	0	0	0	0	0
+"University"	0	0	2873	"TRUE"	"FALSE"	"FALSE"	0.135	9.7	34.6	0	0	0	0	0	0
+"Waterside"	0	0	2794	"TRUE"	"FALSE"	"FALSE"	0.131	11.9	31.3	0	0	0	0	0	1
+"Ardboe"	0	0	2578	"FALSE"	"FALSE"	"TRUE"	0.152	3.4	5	0	0	0	0	0	0
+"Coagh"	0	0	2029	"FALSE"	"FALSE"	"FALSE"	0.115	6.1	10	0	1	0	0	0	0
+"Dunnamore"	0	0	2357	"FALSE"	"FALSE"	"TRUE"	0.154	6.2	6.8	0	0	0	0	0	0
+"Gortalowry"	1	0	2787	"TRUE"	"FALSE"	"FALSE"	0.104	30.6	38.3	1	0	1	0	0	0
+"Killycolpy"	0	0	2616	"FALSE"	"FALSE"	"FALSE"	0.147	5.9	4.4	0	0	0	0	0	0
+"Killymoon"	0	0	1885	"TRUE"	"FALSE"	"FALSE"	0.137	16	33.9	0	0	0	0	0	0
+"Lissan"	0	0	2045	"FALSE"	"FALSE"	"FALSE"	0.115	4.4	8.3	0	0	0	0	0	0
+"Moneymore"	0	0	2646	"FALSE"	"FALSE"	"FALSE"	0.144	8.7	22.1	0	0	0	0	0	0
+"Newbuildings"	0	0	2187	"TRUE"	"FALSE"	"FALSE"	0.123	29.1	49.3	0	0	0	0	0	0
+"Oaklands"	0	0	2181	"FALSE"	"FALSE"	"FALSE"	0.157	6.7	9.9	0	0	0	0	0	0
+"Oldtown"	0	0	2373	"TRUE"	"FALSE"	"FALSE"	0.151	20.2	45	0	0	0	0	0	0
+"Pomeroy"	0	4	2309	"FALSE"	"FALSE"	"FALSE"	0.186	5.1	9.7	0	0	0	0	0	0
+"Sandholes"	0	0	1817	"FALSE"	"FALSE"	"FALSE"	0.137	6.2	10	0	0	0	0	0	0
+"Stewartstown"	0	1	2041	"FALSE"	"FALSE"	"FALSE"	0.116	5.6	15	0	0	0	0	0	0
+"The Loop"	0	1	2946	"FALSE"	"FALSE"	"FALSE"	0.104	4.1	6.2	0	0	0	0	0	0
+"Tullagh"	0	0	2216	"TRUE"	"FALSE"	"FALSE"	0.089	46.9	59.6	0	0	0	0	0	0
+"Aghagallon_1"	0	0	2488	"FALSE"	"FALSE"	"FALSE"	0.102	5.9	10	0	0	0	0	0	0
+"Aghagallon_2"	0	0	2443	"FALSE"	"FALSE"	"TRUE"	0.104	7.3	8.4	0	0	0	0	0	0
+"Annagh_1"	0	0	1612	"TRUE"	"FALSE"	"FALSE"	0.132	12	29.1	0	0	0	0	0	0
+"Annagh_2"	1	0	1430	"TRUE"	"FALSE"	"FALSE"	0.214	64.9	88.8	0	0	0	0	0	0
+"Ballybay"	0	0	2436	"TRUE"	"FALSE"	"FALSE"	0.157	18.1	38.9	0	0	0	0	0	0
+"Ballyoran"	0	0	2985	"FALSE"	"FALSE"	"FALSE"	0.123	12.4	24.8	0	0	0	0	0	0
+"Bleary_1"	0	0	2383	"FALSE"	"TRUE"	"FALSE"	0.095	5.1	6.8	0	0	0	0	0	0
+"Bleary_2"	0	0	1736	"FALSE"	"FALSE"	"FALSE"	0.089	3.8	11.3	0	0	0	0	0	0
+"Brownstown_1"	0	0	1654	"TRUE"	"FALSE"	"FALSE"	0.148	13.6	21.5	0	0	0	0	0	0
+"Brownstown_2"	0	0	1718	"TRUE"	"FALSE"	"FALSE"	0.14	11.4	27.1	0	0	0	0	0	0
+"Church"	1	0	2131	"TRUE"	"FALSE"	"FALSE"	0.216	34.8	60.1	0	0	0	0	0	0
+"Corcrain_1"	0	0	1649	"TRUE"	"FALSE"	"TRUE"	0.177	24.3	31.4	0	0	0	0	0	1
+"Corcrain_2"	1	0	1671	"TRUE"	"FALSE"	"FALSE"	0.179	28.9	50.2	0	0	0	0	0	1
+"Court_1"	0	3	1467	"TRUE"	"FALSE"	"TRUE"	0.175	109.2	114.4	0	0	0	1	0	0
+"Court_2"	0	0	1683	"TRUE"	"FALSE"	"FALSE"	0.112	26.9	52	0	0	0	0	0	0
+"Derrytrasna_1"	0	0	3074	"FALSE"	"FALSE"	"TRUE"	0.091	7.9	14.4	0	0	0	0	0	0
+"Derrytrasna_2"	0	0	2401	"FALSE"	"FALSE"	"FALSE"	0.108	7.9	11.7	0	0	0	0	0	0
+"Donaghcloney_1"	0	0	1538	"FALSE"	"FALSE"	"FALSE"	0.131	8.2	16.4	0	0	0	0	0	0
+"Donaghcloney_2"	0	0	2451	"FALSE"	"TRUE"	"FALSE"	0.108	4.8	8.8	0	0	0	0	0	0
+"Drumgask_1"	0	0	2929	"TRUE"	"FALSE"	"TRUE"	0.147	18.7	29.4	0	0	0	0	0	0
+"Drumgask_2"	0	0	1283	"TRUE"	"FALSE"	"TRUE"	0.172	27.1	12.7	0	0	0	0	0	0
+"Drumgor_1"	0	0	1401	"TRUE"	"FALSE"	"FALSE"	0.146	27.5	41.3	0	0	0	0	0	0
+"Drumgor_2"	0	0	1344	"TRUE"	"FALSE"	"FALSE"	0.162	31.8	78.5	0	0	0	0	0	0
+"Drumnamoe_1"	0	0	1270	"TRUE"	"FALSE"	"TRUE"	0.134	21.2	16.3	0	0	0	0	1	0
+"Drumnamoe_2"	0	0	1381	"TRUE"	"FALSE"	"TRUE"	0.128	6.9	11.9	0	0	0	0	1	0
+"Edenderry_1"	0	0	1449	"TRUE"	"TRUE"	"FALSE"	0.145	21.8	37.6	0	0	0	0	0	0
+"Edenderry_2"	0	0	1599	"TRUE"	"TRUE"	"FALSE"	0.071	6.6	19.7	0	0	0	0	0	0
+"Kernan_1"	0	0	2791	"TRUE"	"FALSE"	"FALSE"	0.093	12.9	16.5	0	0	0	0	0	0
+"Kernan_2"	1	0	3316	"TRUE"	"FALSE"	"FALSE"	0.12	10	11.7	0	0	0	0	0	0
+"Killycomain"	0	0	2539	"TRUE"	"TRUE"	"FALSE"	0.139	14.6	19.3	0	0	0	0	0	1
+"Knocknashane_1"	1	0	1974	"TRUE"	"TRUE"	"FALSE"	0.092	12.1	21	0	0	1	0	0	0
+"Knocknashane_2"	0	0	1377	"TRUE"	"TRUE"	"FALSE"	0.075	6.2	11.4	0	0	0	0	0	0
+"Magheralin_1"	0	0	2283	"FALSE"	"TRUE"	"FALSE"	0.093	10.1	11.6	0	0	0	0	0	0
+"Magheralin_2"	0	0	2865	"FALSE"	"FALSE"	"FALSE"	0.126	6.1	9.9	0	0	0	0	0	0
+"Mourneview"	0	0	2401	"TRUE"	"FALSE"	"FALSE"	0.126	19.4	20.7	0	0	0	0	0	0
+"Parklake"	0	0	3983	"TRUE"	"FALSE"	"FALSE"	0.144	22.9	32.2	0	0	0	0	0	0
+"Taghnevan"	0	0	3728	"TRUE"	"FALSE"	"TRUE"	0.126	21.8	35.3	0	0	0	0	0	0
+"Tavanagh"	2	0	2157	"TRUE"	"FALSE"	"FALSE"	0.171	29.3	46.6	0	1	0	3	0	0
+"The Birches_1"	0	1	2027	"FALSE"	"FALSE"	"FALSE"	0.147	4.5	9.6	0	0	0	0	0	0
+"The Birches_2"	0	0	1742	"FALSE"	"FALSE"	"FALSE"	0.109	6.4	6.6	0	0	0	0	0	0
+"Waringstown_1"	0	0	2583	"FALSE"	"TRUE"	"FALSE"	0.12	9	21.4	0	0	0	0	0	0
+"Waringstown_2"	0	0	1953	"FALSE"	"TRUE"	"FALSE"	0.105	6.7	17.8	0	0	0	0	0	0
+"Woodville_1"	0	2	1519	"TRUE"	"FALSE"	"TRUE"	0.244	52.1	74.9	0	0	0	0	0	0
+"Woodville_2"	0	0	2179	"TRUE"	"FALSE"	"TRUE"	0.089	6.4	8.8	0	0	0	0	0	0
+"Altnagelvin_1"	0	0	1471	"TRUE"	"FALSE"	"FALSE"	0.157	23.5	48.4	0	0	0	0	0	0
+"Altnagelvin_2"	0	0	1777	"TRUE"	"FALSE"	"FALSE"	0.152	19.6	38.7	0	0	0	0	0	0
+"Altnagelvin_3"	0	0	1614	"TRUE"	"FALSE"	"FALSE"	0.139	7.5	10.6	0	0	0	0	0	0
+"Ballynashallog_1"	0	2	1559	"TRUE"	"FALSE"	"TRUE"	0.111	10.6	22.5	1	0	0	0	0	0
+"Ballynashallog_2"	0	0	1685	"TRUE"	"FALSE"	"TRUE"	0.104	4.7	7.2	0	0	0	0	0	0
+"Banagher"	0	0	3508	"FALSE"	"FALSE"	"FALSE"	0.169	6.4	9	0	0	0	0	0	0
+"Beechwood"	0	0	2151	"TRUE"	"FALSE"	"TRUE"	0.13	16.1	18.2	1	0	0	0	0	0
+"Brandywell"	0	8	2495	"TRUE"	"FALSE"	"TRUE"	0.215	41	46.4	2	0	0	0	1	0
+"Carn Hill_1"	0	0	1376	"TRUE"	"FALSE"	"TRUE"	0.131	17.8	26.4	0	0	0	0	0	0
+"Carn Hill_2"	0	0	1227	"TRUE"	"FALSE"	"TRUE"	0.178	32.8	40.9	0	0	0	0	0	0
+"Caw"	0	0	2601	"TRUE"	"FALSE"	"FALSE"	0.131	16.3	31.7	0	0	0	0	0	0
+"Clondermot_1"	1	3	1291	"TRUE"	"FALSE"	"FALSE"	0.197	31.7	47.7	0	0	0	1	0	0
+"Clondermot_2"	0	0	1656	"TRUE"	"FALSE"	"FALSE"	0.095	18	26.3	0	0	0	0	0	0
+"Claudy_1"	0	5	1588	"FALSE"	"FALSE"	"FALSE"	0.115	13.6	19.6	0	0	0	0	0	0
+"Claudy_2"	0	0	1974	"FALSE"	"FALSE"	"FALSE"	0.143	7.9	9.4	0	0	0	0	0	0
+"Creggan Central_1"	0	8	1456	"TRUE"	"FALSE"	"TRUE"	0.214	23	19.2	4	0	0	0	1	0
+"Creggan Central_2"	0	1	1294	"TRUE"	"FALSE"	"TRUE"	0.19	18.5	28.1	3	0	0	0	1	0
+"Creggan South"	0	6	2277	"TRUE"	"FALSE"	"TRUE"	0.19	24.2	18.5	2	0	0	0	1	0
+"Crevagh_1"	0	0	2022	"TRUE"	"FALSE"	"FALSE"	0.18	16.2	23.9	0	0	0	0	0	0
+"Crevagh_2"	0	0	1298	"TRUE"	"FALSE"	"TRUE"	0.22	39.6	50.8	0	0	0	0	0	0
+"Crevagh_3"	0	0	2538	"TRUE"	"FALSE"	"TRUE"	0.17	15.6	21.6	0	0	0	0	0	0
+"Culmore_1"	0	0	1205	"FALSE"	"FALSE"	"TRUE"	0.079	6.1	18.1	0	0	0	0	0	0
+"Culmore_2"	0	0	1236	"TRUE"	"FALSE"	"TRUE"	0.199	31.1	74.2	0	0	0	0	0	0
+"Culmore_3"	0	0	1569	"TRUE"	"FALSE"	"TRUE"	0.131	20.8	34.5	0	0	0	0	0	0
+"Culmore_4"	0	0	2553	"FALSE"	"FALSE"	"TRUE"	0.143	9.6	18.7	0	0	0	0	0	0
+"Culmore_5"	0	0	2309	"FALSE"	"FALSE"	"TRUE"	0.111	6.8	14.9	0	0	0	0	0	0
+"Ebrington_1"	0	2	833	"TRUE"	"FALSE"	"FALSE"	0.132	27.1	50.3	0	0	0	0	0	0
+"Ebrington_2"	0	0	1736	"TRUE"	"FALSE"	"FALSE"	0.208	56.6	101.1	0	0	0	0	0	0
+"Eglinton_1"	0	0	1753	"FALSE"	"FALSE"	"FALSE"	0.143	12.3	32.7	0	0	0	0	0	0
+"Eglinton_2"	0	0	2648	"FALSE"	"FALSE"	"FALSE"	0.121	7.3	15.5	0	0	0	0	0	0
+"Enagh_1_Derry"	0	0	2407	"FALSE"	"FALSE"	"FALSE"	0.171	14.4	41.1	0	0	0	0	0	0
+"Enagh_2_Derry"	0	0	3338	"FALSE"	"FALSE"	"FALSE"	0.113	15.1	17.4	0	0	0	0	0	0
+"Foyle Springs_1"	0	0	1962	"TRUE"	"FALSE"	"TRUE"	0.093	5.3	14.3	0	0	0	0	0	0
+"Foyle Springs_2"	0	0	1787	"TRUE"	"FALSE"	"TRUE"	0.137	12.7	36.4	0	0	0	0	0	0
+"Holly Mount_1"	0	0	2241	"FALSE"	"FALSE"	"FALSE"	0.131	8.6	22.8	0	0	0	0	0	0
+"Holly Mount_2"	0	0	2939	"FALSE"	"FALSE"	"FALSE"	0.111	11.5	19.7	0	0	0	0	0	0
+"Kilfennan_1"	0	0	1558	"TRUE"	"FALSE"	"FALSE"	0.089	10.7	15.9	0	0	0	0	0	0
+"Kilfennan_2"	0	0	1486	"TRUE"	"FALSE"	"FALSE"	0.131	15.5	46.4	0	0	0	0	0	0
+"Lisnagelvin_1"	0	0	1614	"TRUE"	"FALSE"	"FALSE"	0.134	10.3	24.5	0	0	0	0	0	0
+"Lisnagelvin_2"	0	0	1752	"TRUE"	"FALSE"	"FALSE"	0.127	19.9	33.9	0	0	0	0	0	0
+"New Buildings_1"	0	0	1644	"FALSE"	"TRUE"	"FALSE"	0.147	11.7	13.4	0	0	0	0	0	0
+"New Buildings_2"	0	0	1762	"FALSE"	"FALSE"	"FALSE"	0.091	5.8	8.5	0	0	0	0	0	0
+"Pennyburn_1"	0	0	1239	"TRUE"	"FALSE"	"TRUE"	0.12	73.3	76.8	0	0	0	0	0	0
+"Pennyburn_2"	0	0	1253	"TRUE"	"FALSE"	"TRUE"	0.074	12.5	17.3	0	0	0	0	0	0
+"Rosemount"	0	0	2521	"TRUE"	"FALSE"	"TRUE"	0.192	36.5	92.5	0	0	0	0	1	0
+"Shantallow East"	0	1	2503	"TRUE"	"FALSE"	"TRUE"	0.161	17.2	25.5	0	0	0	0	0	0
+"Shantallow West_1"	0	0	1289	"TRUE"	"FALSE"	"TRUE"	0.187	38.7	47.8	0	0	0	0	0	0
+"Shantallow West_2"	0	0	1458	"TRUE"	"FALSE"	"TRUE"	0.216	22.6	85.6	1	0	0	0	0	0
+"Shantallow West_3"	0	0	1559	"TRUE"	"FALSE"	"TRUE"	0.201	26.1	42.2	0	0	0	0	0	0
+"Shantallow West_4"	0	0	2057	"TRUE"	"FALSE"	"TRUE"	0.149	15.7	22.5	0	0	0	0	0	0
+"Springtown_1"	0	0	1745	"TRUE"	"FALSE"	"TRUE"	0.164	12.5	17.8	3	0	0	0	0	0
+"Springtown_2"	0	1	1386	"TRUE"	"FALSE"	"TRUE"	0.082	7.8	13	0	0	0	0	0	0
+"Strand_1_Derry"	0	1	2002	"TRUE"	"FALSE"	"TRUE"	0.232	86.6	101.2	0	0	0	0	0	0
+"Strand_2_Derry"	0	1	1831	"TRUE"	"FALSE"	"FALSE"	0.139	19.4	43.9	0	0	0	0	0	0
+"The Diamond"	0	4	2351	"TRUE"	"FALSE"	"FALSE"	0.23	146	171.8	2	0	0	1	0	0
+"Victoria_Derry"	0	0	3410	"TRUE"	"FALSE"	"FALSE"	0.165	33.7	46	0	0	0	0	0	0
+"Westland"	0	0	2083	"TRUE"	"FALSE"	"TRUE"	0.197	31.4	37.1	3	0	0	0	0	0
+"Ardglass_1"	0	0	1492	"FALSE"	"FALSE"	"TRUE"	0.146	19.1	29.8	0	0	0	0	0	0
+"Ardglass_2"	0	0	1686	"FALSE"	"FALSE"	"TRUE"	0.144	9.7	16.8	0	0	0	0	0	0
+"Audley's Acre"	0	0	2211	"TRUE"	"FALSE"	"TRUE"	0.098	14.4	38.4	0	0	0	0	0	0
+"Ballymaglave_1"	0	0	1319	"TRUE"	"FALSE"	"FALSE"	0.155	21.5	36.6	0	0	0	0	0	0
+"Ballymaglave_2"	0	0	1577	"FALSE"	"TRUE"	"FALSE"	0.116	12	23.9	0	0	0	0	0	0
+"Ballymote"	0	0	2934	"TRUE"	"FALSE"	"TRUE"	0.143	40	59.2	0	0	0	0	0	0
+"Ballynahinch East"	0	0	2497	"TRUE"	"FALSE"	"FALSE"	0.152	23	40.5	0	0	0	0	0	0
+"Castlewellan_1"	0	0	1095	"FALSE"	"FALSE"	"TRUE"	0.113	23.4	39.6	0	0	0	0	0	0
+"Castlewellan_2"	0	0	2447	"FALSE"	"FALSE"	"FALSE"	0.13	10.4	15.2	0	0	0	0	0	0
+"Cathedral_1"	0	2	1687	"TRUE"	"FALSE"	"TRUE"	0.116	19	45.4	0	0	0	0	0	0
+"Cathedral_2"	0	0	1571	"TRUE"	"FALSE"	"TRUE"	0.174	56.1	98.3	0	0	0	0	0	0
+"Crossgar_1"	0	0	1501	"FALSE"	"FALSE"	"FALSE"	0.107	7.1	18.5	0	0	0	0	0	0
+"Crossgar_2"	0	0	1768	"FALSE"	"FALSE"	"FALSE"	0.116	9.4	14	0	0	0	0	0	0
+"Derryboy_1"	0	0	1695	"FALSE"	"FALSE"	"FALSE"	0.106	5.7	5	0	0	0	0	0	0
+"Derryboy_2"	0	0	1326	"FALSE"	"FALSE"	"FALSE"	0.128	10	15.5	0	0	0	0	0	0
+"Donard_1"	0	0	1507	"TRUE"	"FALSE"	"FALSE"	0.103	23.5	48.4	0	0	0	0	0	0
+"Donard_2"	0	0	1686	"TRUE"	"FALSE"	"FALSE"	0.126	4.5	10	0	0	0	0	0	0
+"Drumaness_1"	0	0	1784	"FALSE"	"FALSE"	"TRUE"	0.13	11.4	16.4	0	0	0	0	0	0
+"Drumaness_2"	0	0	2092	"FALSE"	"FALSE"	"FALSE"	0.124	5	6.7	0	0	0	0	0	0
+"Dundrum"	0	0	2851	"FALSE"	"FALSE"	"FALSE"	0.159	13	24.4	0	0	0	0	0	0
+"Dunmore"	0	0	3058	"FALSE"	"FALSE"	"FALSE"	0.109	6.9	12.8	0	0	0	0	0	0
+"Killough_1"	0	0	1781	"FALSE"	"FALSE"	"FALSE"	0.159	14.2	16.4	0	0	0	0	0	0
+"Killough_2"	0	0	1778	"FALSE"	"FALSE"	"FALSE"	0.152	8.1	9.7	0	0	0	0	0	0
+"Killyleagh"	1	0	2994	"FALSE"	"FALSE"	"FALSE"	0.139	16.1	32	0	0	0	0	0	0
+"Kilmore_1"	0	0	1601	"FALSE"	"FALSE"	"FALSE"	0.116	5.6	10.2	0	0	0	0	0	0
+"Kilmore_2"	0	0	1693	"FALSE"	"FALSE"	"FALSE"	0.111	4	6.9	0	0	0	0	0	0
+"Murlough"	0	0	2256	"TRUE"	"FALSE"	"FALSE"	0.173	35.7	56	1	0	0	0	0	0
+"Quoile_1"	0	0	1179	"TRUE"	"FALSE"	"FALSE"	0.133	30.1	31.7	0	0	0	0	0	0
+"Quoile_2"	0	0	1523	"TRUE"	"FALSE"	"FALSE"	0.063	4.7	10.7	0	0	0	0	0	0
+"Saintfield_1"	0	0	1695	"FALSE"	"FALSE"	"FALSE"	0.089	8.4	21.4	0	0	0	0	0	0
+"Saintfield_2"	0	0	1686	"FALSE"	"FALSE"	"FALSE"	0.116	8.2	17.2	0	0	0	0	0	0
+"Seaforde"	0	1	3001	"FALSE"	"FALSE"	"FALSE"	0.132	6.7	10.7	0	0	0	0	0	0
+"Shimna"	0	0	2687	"TRUE"	"FALSE"	"FALSE"	0.151	36.1	80.1	0	0	0	0	0	0
+"Strangford"	0	2	2686	"FALSE"	"FALSE"	"FALSE"	0.114	8.4	15	0	0	0	0	0	0
+"Tollymore_1"	0	0	1566	"FALSE"	"FALSE"	"FALSE"	0.127	4.3	4.6	0	0	0	0	0	0
+"Tollymore_2"	0	0	1821	"FALSE"	"FALSE"	"FALSE"	0.158	10	12.4	0	0	0	0	0	0
+"Altmore"	0	0	2592	"FALSE"	"FALSE"	"FALSE"	0.151	4	4.6	0	0	0	0	0	0
+"Augher"	0	0	2166	"FALSE"	"FALSE"	"FALSE"	0.14	6.3	7.7	0	0	0	0	0	0
+"Aughnacloy"	0	0	2651	"FALSE"	"FALSE"	"FALSE"	0.159	8.3	23.9	0	0	0	0	0	0
+"Ballygawley"	0	0	2515	"FALSE"	"FALSE"	"FALSE"	0.173	7.9	19	0	0	0	0	0	0
+"Ballysaggart"	0	0	2730	"TRUE"	"FALSE"	"FALSE"	0.14	21	48.3	0	0	0	0	0	0
+"Benburb"	0	4	2860	"FALSE"	"FALSE"	"FALSE"	0.143	5.5	11.1	0	0	0	0	0	0
+"Caledon"	0	1	2510	"FALSE"	"FALSE"	"FALSE"	0.137	4.1	5.8	0	0	0	0	0	0
+"Castlecaulfield"	0	0	2713	"FALSE"	"FALSE"	"FALSE"	0.114	6.4	9.1	0	0	0	0	0	0
+"Clogher"	0	2	2252	"FALSE"	"FALSE"	"FALSE"	0.141	7.2	19.6	0	0	0	0	0	0
+"Coalisland North"	0	0	3530	"FALSE"	"FALSE"	"TRUE"	0.13	10.1	19.7	0	0	0	0	0	0
+"Coalisland South"	0	0	2485	"FALSE"	"FALSE"	"TRUE"	0.184	22.2	35.4	0	0	0	0	0	0
+"Coalisland West and Newmills"	0	1	2803	"TRUE"	"FALSE"	"FALSE"	0.129	10.2	22.7	0	0	0	0	0	0
+"Coolhill"	0	0	2716	"TRUE"	"FALSE"	"FALSE"	0.083	7.1	16.1	0	0	0	0	0	0
+"Donaghmore"	0	0	2588	"FALSE"	"FALSE"	"FALSE"	0.157	4.2	14.2	0	0	0	0	0	0
+"Drumglass"	0	0	2357	"FALSE"	"FALSE"	"FALSE"	0.139	14.4	30.8	0	0	0	0	0	0
+"Fivemiletown"	0	0	2114	"FALSE"	"FALSE"	"FALSE"	0.133	9	25.7	0	0	0	0	0	0
+"Killyman"	0	1	2724	"FALSE"	"FALSE"	"FALSE"	0.127	5.4	11.2	0	0	0	0	0	0
+"Killymeal"	0	0	2891	"TRUE"	"FALSE"	"FALSE"	0.097	11.2	24.1	0	0	0	0	0	0
+"Moy"	0	1	3009	"FALSE"	"FALSE"	"FALSE"	0.139	11.8	21.4	0	0	0	0	0	0
+"Moygashel"	0	0	2189	"TRUE"	"FALSE"	"FALSE"	0.118	10.5	32.6	0	0	0	0	0	0
+"Mullaghmore"	0	0	2351	"TRUE"	"FALSE"	"TRUE"	0.14	37.5	57.2	0	0	0	0	0	0
+"Washing Bay"	0	0	3106	"FALSE"	"FALSE"	"TRUE"	0.133	4.4	9.3	0	0	0	0	0	0
+"Ballinamallard"	0	0	2586	"FALSE"	"FALSE"	"FALSE"	0.132	6.4	9.1	0	0	0	0	0	0
+"Belcoo and Garrison"	0	1	2541	"FALSE"	"FALSE"	"FALSE"	0.17	5.4	7.3	0	0	0	0	0	0
+"Belleek and Boa"	0	0	2540	"FALSE"	"FALSE"	"FALSE"	0.202	8.8	8.6	0	0	0	0	0	0
+"Boho Cleenish and Letterbreen"	0	0	3185	"FALSE"	"FALSE"	"FALSE"	0.152	6.3	8.8	0	0	0	0	0	0
+"Brookeborough"	0	0	2367	"FALSE"	"FALSE"	"FALSE"	0.148	4.2	10.4	0	0	0	0	0	0
+"Castlecoole_1"	0	0	1992	"TRUE"	"FALSE"	"FALSE"	0.122	19	40.9	0	0	0	0	0	0
+"Castlecoole_2"	0	0	1884	"TRUE"	"FALSE"	"FALSE"	0.153	15.8	32.7	0	0	0	0	0	0
+"Derrygonnelly"	0	0	2812	"FALSE"	"FALSE"	"FALSE"	0.143	5.4	11.3	0	0	0	0	0	0
+"Derrylin"	0	0	2678	"FALSE"	"FALSE"	"FALSE"	0.163	4.9	6.4	0	0	0	0	0	0
+"Devenish"	0	0	1707	"TRUE"	"FALSE"	"FALSE"	0.206	30.9	73.6	0	0	0	0	0	0
+"Donagh"	0	0	2387	"FALSE"	"FALSE"	"FALSE"	0.186	6.2	6.7	0	0	0	0	0	0
+"Erne"	0	0	2627	"TRUE"	"FALSE"	"FALSE"	0.14	30	70.2	0	0	0	0	0	0
+"Florence Court and Kinawley"	0	0	2630	"FALSE"	"FALSE"	"FALSE"	0.171	4.5	7.3	0	0	0	0	0	0
+"Irvinestown"	0	0	2588	"FALSE"	"FALSE"	"FALSE"	0.184	22	32.5	0	0	0	0	0	0
+"Kesh Ederney and Lack_1"	0	0	1555	"FALSE"	"FALSE"	"FALSE"	0.168	7.1	9.7	0	0	0	0	0	0
+"Kesh Ederney and Lack_2"	0	0	2097	"FALSE"	"FALSE"	"FALSE"	0.155	13.1	17.4	0	0	0	0	0	0
+"Lisbellaw"	0	0	3190	"FALSE"	"FALSE"	"FALSE"	0.116	6.2	12.8	0	0	0	0	0	0
+"Lisnarrick"	0	0	1908	"FALSE"	"FALSE"	"FALSE"	0.151	7.4	10.9	0	0	0	0	0	0
+"Lisnaskea"	0	0	2580	"FALSE"	"FALSE"	"FALSE"	0.162	25.1	44.3	0	0	0	0	0	0
+"Maguires Bridge"	0	0	3131	"FALSE"	"FALSE"	"FALSE"	0.156	7.2	14.4	0	0	0	0	0	0
+"Newtownbutler"	0	1	2502	"FALSE"	"FALSE"	"FALSE"	0.204	10.8	13.7	0	0	0	0	0	0
+"Portora"	0	0	3117	"TRUE"	"FALSE"	"FALSE"	0.172	62.4	88.8	0	0	0	0	0	0
+"Rosslea"	0	1	2167	"FALSE"	"FALSE"	"FALSE"	0.221	9.4	10.1	0	0	0	0	0	0
+"Rossorry"	0	0	2444	"TRUE"	"FALSE"	"FALSE"	0.132	16.9	34.3	0	0	0	0	0	0
+"Tempo"	0	0	2590	"FALSE"	"FALSE"	"FALSE"	0.164	10	17	0	0	0	0	0	0
+"Antiville"	0	0	1483	"TRUE"	"FALSE"	"FALSE"	0.156	30.6	57.9	0	3	0	0	0	0
+"Ballycarry"	0	0	2582	"FALSE"	"TRUE"	"FALSE"	0.11	5.6	9	0	0	0	0	0	0
+"Ballyloran"	0	0	1096	"TRUE"	"FALSE"	"FALSE"	0.186	15.3	46.7	0	0	0	0	0	0
+"Blackcave"	0	0	1635	"TRUE"	"FALSE"	"FALSE"	0.121	9.2	13	0	1	0	0	0	0
+"Carncastle"	0	0	2875	"TRUE"	"FALSE"	"FALSE"	0.105	4.6	11.1	0	1	0	0	0	0
+"Carnlough"	1	0	2041	"FALSE"	"FALSE"	"FALSE"	0.125	7.8	17.7	0	0	0	0	0	0
+"Central_Larne"	0	0	1817	"TRUE"	"FALSE"	"FALSE"	0.146	49.9	79.7	0	5	0	0	0	0
+"Craigy Hill"	0	0	1455	"TRUE"	"FALSE"	"FALSE"	0.12	15.3	40	0	0	0	0	0	0
+"Gardenmore"	0	0	1916	"TRUE"	"FALSE"	"FALSE"	0.099	7.2	21.2	0	1	0	0	0	0
+"Glenarm"	0	0	1851	"FALSE"	"FALSE"	"FALSE"	0.145	10.4	14.2	0	0	0	0	0	0
+"Glynn"	0	0	2027	"FALSE"	"TRUE"	"FALSE"	0.135	5.4	8.5	0	0	0	0	0	0
+"Harbour"	0	0	1811	"TRUE"	"FALSE"	"FALSE"	0.118	10.7	26.2	0	1	0	0	0	0
+"Island Magee"	2	0	2568	"FALSE"	"TRUE"	"FALSE"	0.11	3.5	10.4	0	0	0	0	0	0
+"Kilwaughter_1"	0	0	3660	"TRUE"	"FALSE"	"FALSE"	0.098	7.9	22.5	0	1	0	0	0	0
+"Kilwaughter_2"	0	0	1770	"FALSE"	"TRUE"	"FALSE"	0.123	5.5	13.2	0	0	0	0	0	0
+"Town Parks"	0	0	1593	"TRUE"	"FALSE"	"FALSE"	0.157	15.9	22.8	0	2	0	0	0	0
+"Aghanloo_1"	0	0	2491	"TRUE"	"FALSE"	"FALSE"	0.159	7.9	19	0	0	0	0	0	0
+"Aghanloo_2"	0	0	1876	"FALSE"	"FALSE"	"FALSE"	0.122	4.6	16.4	0	0	0	0	0	0
+"Ballykelly"	0	1	1753	"FALSE"	"FALSE"	"FALSE"	0.148	17.1	27.4	0	0	0	0	0	0
+"Coolessan"	0	0	1422	"TRUE"	"FALSE"	"FALSE"	0.189	46.1	81.3	0	0	0	0	0	0
+"Dungiven"	0	0	2022	"FALSE"	"FALSE"	"TRUE"	0.201	14.3	15	0	0	0	0	0	0
+"Enagh_1_Limavady"	0	0	1275	"TRUE"	"FALSE"	"FALSE"	0.102	7.2	13.9	0	0	0	0	0	0
+"Enagh_2_Limavady"	0	0	1212	"TRUE"	"FALSE"	"FALSE"	0.158	32.1	76.6	0	0	0	0	0	0
+"Feeny"	0	0	2206	"FALSE"	"FALSE"	"FALSE"	0.191	5.6	6.8	0	0	0	0	0	0
+"Forest"	0	0	2449	"FALSE"	"FALSE"	"FALSE"	0.141	6.9	9.9	0	0	0	0	0	0
+"Glack"	0	0	2106	"FALSE"	"FALSE"	"FALSE"	0.139	3.5	7.2	0	0	0	0	0	0
+"Gresteel_1"	2	0	2146	"FALSE"	"FALSE"	"TRUE"	0.149	8.8	14.4	0	0	0	0	0	0
+"Gresteel_2"	0	0	1525	"FALSE"	"FALSE"	"FALSE"	0.166	13.1	23.1	0	0	0	0	0	0
+"Greystone_Limavady"	0	0	1338	"TRUE"	"FALSE"	"FALSE"	0.204	47.7	83.6	0	0	0	0	0	0
+"Magilligan"	0	0	2407	"FALSE"	"FALSE"	"FALSE"	0.111	16.4	11.1	0	0	0	0	0	0
+"Rathbrady"	0	0	1452	"TRUE"	"FALSE"	"FALSE"	0.135	27.4	36.4	0	0	0	0	0	0
+"Roeside"	0	0	1429	"TRUE"	"FALSE"	"FALSE"	0.139	61.7	62.4	0	0	0	0	0	0
+"The Highlands"	0	0	1969	"FALSE"	"FALSE"	"FALSE"	0.19	4.7	6.5	0	0	0	0	0	0
+"Upper Glenshane"	0	0	2458	"FALSE"	"FALSE"	"FALSE"	0.135	4.8	5.2	1	0	0	0	0	0
+"Ballinderry_1"	0	0	2263	"FALSE"	"FALSE"	"FALSE"	0.092	4.3	4.3	0	0	0	0	0	0
+"Ballinderry_2"	0	0	2865	"FALSE"	"FALSE"	"FALSE"	0.109	4.1	10.3	0	0	0	0	0	0
+"Ballymacash_1"	0	0	2233	"TRUE"	"FALSE"	"FALSE"	0.096	13.7	34.6	0	0	0	0	0	0
+"Ballymacash_2"	0	0	2054	"TRUE"	"FALSE"	"FALSE"	0.07	2.7	7.2	0	0	0	0	0	0
+"Ballymacbrennan_1"	0	0	1580	"FALSE"	"TRUE"	"FALSE"	0.103	1.8	4	0	0	0	0	0	0
+"Ballymacbrennan_2"	0	0	1792	"FALSE"	"FALSE"	"FALSE"	0.096	3.3	5.3	0	0	0	0	0	0
+"Ballymacoss_1"	0	0	2325	"TRUE"	"FALSE"	"FALSE"	0.125	15.8	39.6	0	0	0	0	0	0
+"Ballymacoss_2"	0	0	1885	"TRUE"	"FALSE"	"FALSE"	0.116	10.2	22.1	0	0	0	0	0	0
+"Ballymacoss_3"	0	1	3362	"FALSE"	"FALSE"	"FALSE"	0.102	5.8	9.2	0	0	0	0	0	0
+"Blaris_1"	0	0	1572	"TRUE"	"FALSE"	"FALSE"	0.116	19.3	40.2	0	0	0	0	0	0
+"Blaris_2"	0	0	1803	"TRUE"	"FALSE"	"FALSE"	0.081	8.6	16.6	0	0	0	0	0	0
+"Collin Glen_1"	0	3	1565	"FALSE"	"FALSE"	"TRUE"	0.135	19.7	28.4	0	0	0	0	0	0
+"Collin Glen_2"	0	0	2365	"TRUE"	"FALSE"	"TRUE"	0.168	27.7	34.6	2	0	0	0	0	0
+"Collin Glen_3"	0	0	1969	"TRUE"	"FALSE"	"TRUE"	0.171	39.3	62.4	3	0	0	0	0	0
+"Derryaghy_1"	0	0	3775	"TRUE"	"FALSE"	"TRUE"	0.108	10.6	29.8	0	0	0	0	0	0
+"Derryaghy_2"	0	0	1697	"TRUE"	"FALSE"	"TRUE"	0.117	7.6	15.3	0	0	0	0	0	0
+"Derryaghy_3"	0	0	3992	"FALSE"	"FALSE"	"FALSE"	0.114	11	23.5	1	0	0	1	0	0
+"Dromara_1"	0	0	1974	"FALSE"	"TRUE"	"FALSE"	0.099	2.9	5.3	0	0	0	0	0	0
+"Dromara_2"	0	0	2724	"FALSE"	"FALSE"	"FALSE"	0.106	6.6	13.7	0	0	0	0	0	0
+"Drumbo_1"	0	0	1697	"FALSE"	"FALSE"	"FALSE"	0.088	4.9	13.4	0	0	0	0	0	0
+"Drumbo_2"	1	0	1667	"FALSE"	"FALSE"	"FALSE"	0.107	29.3	8.7	0	0	0	0	0	0
+"Dunmurry_1"	0	0	2199	"TRUE"	"FALSE"	"FALSE"	0.126	18.4	57.4	0	0	0	0	0	0
+"Dunmurry_2"	0	0	2180	"TRUE"	"FALSE"	"TRUE"	0.075	8.9	26.1	0	0	0	0	0	0
+"Glenavy_1"	0	0	2946	"FALSE"	"FALSE"	"FALSE"	0.096	7.6	21.6	0	0	0	0	0	0
+"Glenavy_2"	0	0	2751	"FALSE"	"FALSE"	"FALSE"	0.103	5.7	9.9	0	0	0	0	0	0
+"Harmony Hill"	0	0	3054	"TRUE"	"FALSE"	"FALSE"	0.074	8.3	19.5	0	0	0	0	0	0
+"Hilden_1"	0	0	1528	"TRUE"	"FALSE"	"FALSE"	0.162	40.9	70	0	0	0	0	0	0
+"Hilden_2"	0	0	1376	"TRUE"	"FALSE"	"FALSE"	0.178	18.3	34.9	0	0	0	0	0	0
+"Hillhall_1"	0	0	1420	"TRUE"	"TRUE"	"FALSE"	0.116	13.2	26.9	0	0	0	0	0	0
+"Hillhall_2"	1	0	1485	"TRUE"	"FALSE"	"FALSE"	0.124	4.7	13.2	0	0	0	0	0	0
+"Hillsborough_1"	0	0	1793	"FALSE"	"FALSE"	"FALSE"	0.1	5.6	11.6	0	0	0	0	0	0
+"Hillsborough_2"	0	0	1965	"FALSE"	"FALSE"	"FALSE"	0.085	4.5	7.8	0	0	0	0	0	0
+"Kilwee_1"	0	0	1476	"TRUE"	"FALSE"	"TRUE"	0.087	11.2	24.6	0	0	0	0	0	0
+"Kilwee_2"	0	0	1688	"TRUE"	"FALSE"	"TRUE"	0.121	24.4	49.8	0	0	0	0	0	0
+"Knockmore_1"	0	0	2749	"TRUE"	"FALSE"	"FALSE"	0.112	11.6	20.5	0	0	0	0	0	0
+"Knockmore_2"	0	0	1549	"TRUE"	"FALSE"	"FALSE"	0.121	19.6	40.1	0	0	0	0	0	0
+"Lagan Valley_1"	0	0	1415	"TRUE"	"FALSE"	"FALSE"	0.146	19.7	36.1	0	0	0	0	0	0
+"Lagan Valley_2"	0	0	1638	"TRUE"	"FALSE"	"FALSE"	0.135	46.3	75.9	0	0	0	0	0	0
+"Lambeg_1"	0	0	1305	"FALSE"	"FALSE"	"FALSE"	0.111	20	46.3	0	0	0	0	0	0
+"Lambeg_2"	0	0	1432	"TRUE"	"TRUE"	"FALSE"	0.127	12.5	24.9	0	0	0	0	0	0
+"Lisnagarvey"	0	0	2605	"TRUE"	"FALSE"	"FALSE"	0.088	7.1	17.6	0	0	0	0	0	0
+"Maghaberry_1"	0	0	2332	"FALSE"	"TRUE"	"FALSE"	0.105	32.6	15.1	0	0	0	0	0	0
+"Maghaberry_2"	0	0	2384	"FALSE"	"FALSE"	"FALSE"	0.091	4.1	7.7	0	0	0	0	0	0
+"Magheralave_1"	0	0	1603	"TRUE"	"FALSE"	"FALSE"	0.11	5.8	13.3	0	0	0	0	0	0
+"Magheralave_2"	0	0	1687	"TRUE"	"FALSE"	"FALSE"	0.065	4.9	7.2	0	0	0	0	0	0
+"Maze_1"	1	0	2158	"FALSE"	"FALSE"	"FALSE"	0.103	6.5	9.4	0	0	0	0	0	0
+"Maze_2"	0	0	1658	"FALSE"	"TRUE"	"FALSE"	0.098	4	9.6	0	1	0	0	0	0
+"Moira_1"	0	0	2822	"FALSE"	"FALSE"	"FALSE"	0.097	9.2	17.5	0	0	0	0	0	0
+"Moira_2"	0	0	2317	"FALSE"	"FALSE"	"FALSE"	0.09	5.4	15.6	0	0	0	0	0	0
+"Old Warren"	0	0	2589	"TRUE"	"FALSE"	"FALSE"	0.168	26.3	46.8	0	0	0	0	0	0
+"Poleglass_1"	0	0	1986	"TRUE"	"FALSE"	"TRUE"	0.162	24.2	40.9	1	0	0	0	0	0
+"Poleglass_2"	0	0	1795	"TRUE"	"FALSE"	"TRUE"	0.113	13.3	19.4	0	0	0	0	0	0
+"Seymour Hill"	0	0	2502	"TRUE"	"FALSE"	"FALSE"	0.122	10.5	32.2	0	0	0	0	0	0
+"Tonagh"	0	0	2594	"TRUE"	"FALSE"	"FALSE"	0.134	26.9	47.6	0	0	0	0	0	0
+"Twinbrook_1"	0	2	1261	"TRUE"	"FALSE"	"TRUE"	0.177	17.9	30.2	1	0	0	1	0	0
+"Twinbrook_2"	0	0	1386	"TRUE"	"FALSE"	"TRUE"	0.188	18.4	36.6	0	0	0	0	0	0
+"Wallace Park_1"	0	0	1095	"TRUE"	"FALSE"	"FALSE"	0.048	3.7	6.9	0	0	0	0	0	0
+"Wallace Park_2"	0	0	2283	"TRUE"	"FALSE"	"FALSE"	0.078	6.7	16.8	0	0	0	0	0	0
+"Ballymaguigan"	0	0	2748	"FALSE"	"FALSE"	"FALSE"	0.108	7.3	12.1	0	0	0	0	0	0
+"Bellaghy"	0	0	2685	"FALSE"	"FALSE"	"FALSE"	0.136	7.5	6.5	0	0	0	0	0	0
+"Castledawson_1"	0	0	1586	"FALSE"	"FALSE"	"FALSE"	0.111	15.1	20.7	0	0	0	0	0	0
+"Castledawson_2"	0	0	1743	"FALSE"	"FALSE"	"FALSE"	0.12	7.5	10.3	0	0	0	0	0	0
+"Draperstown"	0	0	2984	"FALSE"	"FALSE"	"TRUE"	0.155	6.9	7	0	0	0	0	0	0
+"Glebe_1_Magherafelt"	0	0	1799	"TRUE"	"FALSE"	"FALSE"	0.117	26.3	42.1	0	0	0	0	0	0
+"Glebe_2_Magherafelt"	0	3	1280	"TRUE"	"FALSE"	"FALSE"	0.138	14.6	36.8	0	0	0	0	0	0
+"Gulladuff"	0	0	2723	"FALSE"	"FALSE"	"FALSE"	0.118	6.3	5.5	0	1	0	0	0	0
+"Knockcloghrim"	0	0	2747	"FALSE"	"FALSE"	"FALSE"	0.097	5	6.7	0	0	0	0	0	0
+"Lecumpher"	2	0	2724	"FALSE"	"FALSE"	"FALSE"	0.133	4.9	7.1	0	0	0	0	0	0
+"Lower Glenshane_1"	0	0	1438	"FALSE"	"FALSE"	"TRUE"	0.114	4	3.5	0	0	0	0	0	0
+"Lower Glenshane_2"	0	0	1479	"FALSE"	"FALSE"	"TRUE"	0.113	5.6	4.4	0	0	0	0	0	0
+"Maghera"	0	0	2852	"FALSE"	"FALSE"	"FALSE"	0.162	17.9	23.4	1	0	0	0	0	0
+"Swatragh_1"	0	0	1699	"FALSE"	"FALSE"	"FALSE"	0.137	4	6.9	0	0	0	0	0	0
+"Swatragh_2"	0	0	1592	"FALSE"	"FALSE"	"TRUE"	0.144	6.7	4.5	0	0	0	0	0	0
+"Tobermore"	0	0	2641	"FALSE"	"FALSE"	"FALSE"	0.111	5.9	5.9	0	0	0	0	0	0
+"Town Parks East_1"	0	0	1520	"TRUE"	"FALSE"	"FALSE"	0.152	15.1	25.8	0	0	0	0	0	0
+"Town Parks East_2"	0	0	1398	"TRUE"	"FALSE"	"FALSE"	0.15	29	68.4	0	0	0	0	0	0
+"Town Parks West"	0	0	2211	"TRUE"	"FALSE"	"FALSE"	0.113	41	37.6	0	0	0	0	0	0
+"Upperlands"	0	0	2498	"FALSE"	"FALSE"	"FALSE"	0.157	5.8	8.9	0	0	0	0	0	0
+"Valley"	0	0	2691	"FALSE"	"FALSE"	"FALSE"	0.141	5.8	5.1	0	0	0	0	0	0
+"Dalriada"	0	0	1452	"TRUE"	"FALSE"	"FALSE"	0.117	14.2	21.7	0	0	0	0	0	0
+"Glenariff"	0	0	1690	"FALSE"	"FALSE"	"TRUE"	0.134	5.5	9.1	0	0	0	0	0	0
+"Knocklayd"	0	0	1732	"TRUE"	"FALSE"	"FALSE"	0.166	10.3	29.5	0	0	0	0	0	0
+"Armoy_&_Moss-side and Moyarget"	0	0	2045	"FALSE"	"FALSE"	"FALSE"	0.185	9.1	11.1	0	1	0	0	0	0
+"Ballylough_&_Bushmills"	0	0	1781	"FALSE"	"TRUE"	"FALSE"	0.189	9.8	19.5	0	1	0	0	0	0
+"Bonamargy and Rathlin_&_Glenshesk"	0	0	1872	"TRUE"	"FALSE"	"FALSE"	0.139	9.1	23.1	0	0	0	0	0	0
+"Carnmoon_&_Dunseverick"	0	0	1806	"FALSE"	"TRUE"	"FALSE"	0.18	5.3	5.2	0	0	0	0	0	0
+"Glenaan_&_Glendun"	0	0	2421	"FALSE"	"FALSE"	"TRUE"	0.136	5.5	7.2	0	0	0	0	0	0
+"Glentaisie_&_Kinbane"	0	0	2251	"TRUE"	"FALSE"	"FALSE"	0.207	14.6	30.4	0	0	0	0	0	0
+"Annalong_1"	0	0	1656	"FALSE"	"FALSE"	"FALSE"	0.162	4.8	8.2	0	0	0	1	0	0
+"Annalong_2"	0	0	1555	"FALSE"	"FALSE"	"FALSE"	0.186	9.2	34.6	0	0	0	0	0	0
+"Ballybot"	0	1	2192	"TRUE"	"FALSE"	"TRUE"	0.147	39.6	49.6	0	0	0	0	1	0
+"Bessbrook"	0	0	2579	"FALSE"	"FALSE"	"FALSE"	0.146	17.1	31	2	0	0	0	0	0
+"Binnian"	0	0	3138	"FALSE"	"FALSE"	"FALSE"	0.171	5.3	6.2	0	0	0	0	0	0
+"Burren and Kilbroney_1"	0	0	1964	"FALSE"	"FALSE"	"TRUE"	0.149	3.3	6.7	0	0	0	0	0	0
+"Burren and Kilbroney_2"	0	0	2542	"FALSE"	"FALSE"	"TRUE"	0.134	2.6	4.7	0	0	0	0	0	0
+"Camlough"	0	0	3482	"FALSE"	"FALSE"	"TRUE"	0.174	11	12.2	0	0	0	0	0	0
+"Clonallan_1"	0	0	2052	"TRUE"	"FALSE"	"TRUE"	0.177	34.2	60.3	0	0	0	0	0	0
+"Clonallan_2"	0	0	2341	"TRUE"	"FALSE"	"TRUE"	0.13	5.9	11.3	0	0	0	0	0	0
+"Creggan"	0	3	3088	"FALSE"	"FALSE"	"TRUE"	0.27	5.6	5.3	0	0	0	1	1	0
+"Crossmaglen"	0	10	2665	"FALSE"	"FALSE"	"TRUE"	0.257	5.9	4.6	0	0	0	1	0	0
+"Daisy hill_1"	0	2	1580	"TRUE"	"FALSE"	"TRUE"	0.12	31.9	33.7	0	0	0	0	0	0
+"Daisy hill_2"	0	14	1575	"TRUE"	"FALSE"	"TRUE"	0.175	82.6	112.2	0	0	0	0	0	0
+"Derryleckagh_1"	0	0	2046	"FALSE"	"FALSE"	"TRUE"	0.12	6.1	10.5	0	0	0	0	0	0
+"Derryleckagh_2"	0	0	2412	"FALSE"	"FALSE"	"FALSE"	0.145	5.8	11.1	0	0	0	0	0	0
+"Derrymore_1"	0	0	1652	"FALSE"	"FALSE"	"TRUE"	0.184	15.6	31.6	0	0	0	0	0	0
+"Derrymore_2"	0	0	1543	"TRUE"	"FALSE"	"TRUE"	0.153	13.1	21.9	0	0	0	0	0	0
+"Donaghmore_1"	3	0	2057	"FALSE"	"FALSE"	"FALSE"	0.168	6.6	6.8	0	0	0	0	0	0
+"Donaghmore_2"	0	0	1416	"FALSE"	"FALSE"	"FALSE"	0.149	8.3	6.9	0	0	0	0	0	0
+"Drumalane_1"	0	1	1966	"TRUE"	"FALSE"	"TRUE"	0.146	11.5	14.5	0	0	0	0	0	0
+"Drumalane_2"	0	0	1386	"TRUE"	"FALSE"	"TRUE"	0.164	46	65.9	0	0	0	0	0	0
+"Drumgullion_1"	0	0	1419	"TRUE"	"FALSE"	"TRUE"	0.192	24.8	33.5	0	0	0	0	0	0
+"Drumgullion_2"	0	0	1679	"TRUE"	"FALSE"	"TRUE"	0.097	11.4	18	0	0	0	0	0	0
+"Fathom"	0	8	3110	"FALSE"	"FALSE"	"TRUE"	0.176	12.2	13.4	0	0	0	0	0	0
+"Forkhill_1"	0	1	2205	"FALSE"	"FALSE"	"TRUE"	0.179	6	5.9	0	0	0	0	0	0
+"Forkhill_2"	0	5	2151	"FALSE"	"FALSE"	"TRUE"	0.259	9.4	6.2	0	0	0	0	0	0
+"Kilkeel Central_1"	0	0	1862	"TRUE"	"FALSE"	"FALSE"	0.136	10.4	18.6	0	0	0	0	0	0
+"Kilkeel Central_2"	0	0	1825	"FALSE"	"FALSE"	"FALSE"	0.127	18.3	32.2	0	0	0	0	0	0
+"Kilkeel South_1"	0	0	1302	"TRUE"	"FALSE"	"FALSE"	0.114	19	27.9	0	0	0	0	0	0
+"Kilkeel South_2"	0	0	1681	"FALSE"	"FALSE"	"FALSE"	0.183	19.5	32	0	0	0	0	0	0
+"Lisnacree"	0	0	2990	"FALSE"	"FALSE"	"FALSE"	0.147	6.1	11.9	0	0	0	0	0	0
+"Mayobridge_1"	0	0	2302	"FALSE"	"FALSE"	"FALSE"	0.166	4.9	7.2	0	0	0	0	0	0
+"Mayobridge_2"	0	0	1735	"FALSE"	"FALSE"	"FALSE"	0.117	1.9	4.2	0	0	0	0	0	0
+"Newtownhamilton"	0	2	2836	"FALSE"	"FALSE"	"FALSE"	0.223	8.5	17.5	0	0	0	1	0	0
+"Rostrevor"	0	1	2893	"FALSE"	"FALSE"	"TRUE"	0.155	9.1	14.4	0	0	0	1	0	0
+"Seaview_1"	0	0	1532	"TRUE"	"FALSE"	"FALSE"	0.134	12.7	25.5	0	0	0	0	0	0
+"Seaview_2"	0	0	1535	"TRUE"	"FALSE"	"TRUE"	0.164	12.3	25.7	0	0	0	0	0	0
+"Silver Bridge_1"	0	0	1845	"FALSE"	"FALSE"	"TRUE"	0.259	6	4.8	0	0	0	0	0	0
+"Silver Bridge_2"	0	2	1925	"FALSE"	"FALSE"	"TRUE"	0.203	4.7	2.3	0	0	0	0	0	0
+"Spelga"	0	0	3583	"FALSE"	"FALSE"	"FALSE"	0.178	8.2	7.9	0	0	0	0	0	0
+"St Mary's"	0	0	2284	"TRUE"	"FALSE"	"TRUE"	0.14	30.5	41.1	0	0	0	0	0	0
+"St Patrick's_1"	0	0	2210	"TRUE"	"FALSE"	"TRUE"	0.132	18.4	26.6	0	0	0	0	0	0
+"St Patrick's_2"	0	0	1320	"TRUE"	"FALSE"	"TRUE"	0.176	53.9	54.2	0	0	0	0	0	0
+"Tullyhappy"	0	0	3366	"FALSE"	"FALSE"	"FALSE"	0.181	6.4	8	0	0	0	0	0	0
+"Windsor Hill_1"	0	0	1614	"TRUE"	"FALSE"	"TRUE"	0.099	6.6	12	0	0	0	0	0	0
+"Windsor Hill_2"	0	0	1389	"TRUE"	"FALSE"	"FALSE"	0.123	25.2	43.8	0	0	0	0	0	0
+"Abbey_1"	1	0	1441	"TRUE"	"FALSE"	"FALSE"	0.112	11.7	29.3	0	0	0	0	0	0
+"Abbey_2"	0	0	1373	"TRUE"	"FALSE"	"FALSE"	0.133	14.4	50.2	0	1	0	0	0	0
+"Ballyclare North_1"	0	0	1786	"TRUE"	"TRUE"	"FALSE"	0.118	10.6	23.6	0	0	0	0	0	0
+"Ballyclare North_2"	0	0	2065	"TRUE"	"TRUE"	"FALSE"	0.136	10.7	23.3	0	1	0	0	0	0
+"Ballyclare South_1"	0	0	1627	"TRUE"	"TRUE"	"FALSE"	0.123	13	40.5	0	1	0	0	0	0
+"Ballyclare South_2"	0	0	2011	"TRUE"	"TRUE"	"FALSE"	0.089	5.3	16.3	0	0	0	0	0	0
+"Ballyduff_1"	0	0	1611	"TRUE"	"TRUE"	"FALSE"	0.11	15.5	21.5	0	0	0	0	0	0
+"Ballyduff_2"	0	0	1255	"TRUE"	"FALSE"	"FALSE"	0.087	7.1	15.9	0	0	0	0	0	0
+"Ballyhenry_1"	0	0	1517	"TRUE"	"FALSE"	"FALSE"	0.08	5.7	19.2	0	0	0	0	0	0
+"Ballyhenry_2"	0	0	1255	"TRUE"	"FALSE"	"FALSE"	0.099	17.4	31.4	0	0	0	0	0	0
+"Ballynure_1"	1	0	1525	"FALSE"	"TRUE"	"FALSE"	0.107	4.2	14.2	0	0	0	0	0	0
+"Ballynure_2"	0	0	1622	"FALSE"	"TRUE"	"FALSE"	0.097	4.5	7.8	0	1	0	0	0	0
+"Ballyrobert_1"	1	0	1809	"FALSE"	"TRUE"	"FALSE"	0.086	3.8	9.1	0	0	0	0	0	0
+"Ballyrobert_2"	0	0	2446	"FALSE"	"TRUE"	"FALSE"	0.07	5.4	12.9	0	0	0	0	0	0
+"Burnthill_1"	0	0	1219	"TRUE"	"FALSE"	"FALSE"	0.073	6.3	15.2	0	0	0	0	0	0
+"Burnthill_2"	0	0	1340	"TRUE"	"FALSE"	"FALSE"	0.064	5.6	27.4	0	0	0	0	0	0
+"Carnmoney_1"	0	0	1276	"TRUE"	"TRUE"	"FALSE"	0.151	11.7	21.6	0	0	0	0	0	0
+"Carnmoney_2"	0	0	1258	"TRUE"	"FALSE"	"FALSE"	0.048	3.5	14.9	0	0	0	0	0	0
+"Cloughfern_1"	1	0	1718	"TRUE"	"FALSE"	"FALSE"	0.1	9.4	26.3	0	0	1	0	0	0
+"Cloughfern_2"	0	0	1228	"TRUE"	"TRUE"	"FALSE"	0.109	13.2	36.3	0	0	0	0	0	0
+"Collinbridge_1"	0	0	1697	"TRUE"	"FALSE"	"FALSE"	0.086	7.9	14.8	0	0	0	0	0	0
+"Collinbridge_2"	0	0	1381	"TRUE"	"FALSE"	"FALSE"	0.068	16	56.6	0	0	0	0	0	0
+"Coole"	0	0	2409	"TRUE"	"TRUE"	"FALSE"	0.165	19.2	38.2	1	0	0	0	0	0
+"Doagh_1"	0	0	1840	"FALSE"	"TRUE"	"FALSE"	0.092	4.3	13.1	0	1	0	0	0	0
+"Doagh_2"	0	0	1834	"FALSE"	"TRUE"	"FALSE"	0.118	5.8	17.8	0	0	0	0	0	0
+"Dunanney"	0	0	2262	"TRUE"	"TRUE"	"FALSE"	0.172	15.6	27.1	1	3	0	0	0	0
+"Glebe_1_Newtownabbey"	0	0	1661	"TRUE"	"FALSE"	"FALSE"	0.097	7.5	22	0	0	0	0	0	0
+"Glebe_2_Newtownabbey"	0	0	1655	"TRUE"	"FALSE"	"FALSE"	0.082	4.4	13.3	0	0	0	0	0	0
+"Glengormley_1"	0	0	1668	"TRUE"	"FALSE"	"FALSE"	0.072	15.9	80.5	0	0	0	0	0	0
+"Glengormley_2"	0	0	1297	"TRUE"	"FALSE"	"FALSE"	0.143	17.7	47.5	0	0	0	0	0	0
+"Hawthorne"	0	0	2266	"TRUE"	"TRUE"	"FALSE"	0.09	10.7	30.9	0	0	0	0	0	0
+"Hightown"	0	0	2237	"TRUE"	"FALSE"	"FALSE"	0.116	22.5	53.1	0	0	0	0	0	0
+"Jordanstown_1"	0	0	1872	"TRUE"	"TRUE"	"FALSE"	0.096	7.9	23.8	0	0	0	0	0	0
+"Jordanstown_2"	0	0	2047	"TRUE"	"FALSE"	"FALSE"	0.069	2.3	8.8	0	0	0	0	0	0
+"Jordanstown_3"	0	0	2306	"TRUE"	"FALSE"	"FALSE"	0.079	1.5	7.2	0	0	0	0	0	0
+"Mallusk_1"	1	0	1827	"FALSE"	"FALSE"	"FALSE"	0.095	7.3	18.6	0	0	0	0	0	0
+"Mallusk_2"	2	1	4574	"FALSE"	"FALSE"	"FALSE"	0.091	7	18.3	0	0	0	0	0	0
+"Mallusk_3"	0	0	1937	"TRUE"	"FALSE"	"FALSE"	0.063	4.3	9.8	0	0	0	0	0	0
+"Monkstown_1"	0	0	1517	"TRUE"	"TRUE"	"FALSE"	0.156	15.3	36.4	0	2	0	0	0	0
+"Monkstown_2"	2	0	2026	"TRUE"	"FALSE"	"FALSE"	0.127	10.4	25.5	0	0	0	0	0	0
+"Mossley_1"	0	0	1414	"TRUE"	"FALSE"	"FALSE"	0.084	7.5	32.1	0	0	0	0	0	0
+"Mossley_2"	0	0	1571	"TRUE"	"TRUE"	"FALSE"	0.125	15	24.8	1	0	0	0	0	0
+"Rostulla_1"	0	0	2250	"TRUE"	"FALSE"	"FALSE"	0.105	13.5	32	0	1	0	0	0	0
+"Rostulla_2"	0	0	2644	"TRUE"	"FALSE"	"FALSE"	0.058	1.4	3.6	0	0	0	0	0	0
+"Valley_1"	0	3	1568	"TRUE"	"FALSE"	"FALSE"	0.125	21	40.8	1	0	0	0	0	0
+"Valley_2"	1	0	1926	"TRUE"	"FALSE"	"FALSE"	0.147	19.9	40.7	0	0	0	0	0	0
+"Whitehouse"	0	0	2071	"TRUE"	"TRUE"	"FALSE"	0.158	19	37.2	0	0	1	0	0	0
+"Ballycrochan_1"	0	0	1730	"TRUE"	"FALSE"	"FALSE"	0.077	3.4	12.6	0	0	0	0	0	0
+"Ballycrochan_2"	0	0	1930	"TRUE"	"FALSE"	"FALSE"	0.105	4.6	11.3	0	0	0	0	0	0
+"Ballycrochan_3"	0	0	1634	"TRUE"	"TRUE"	"FALSE"	0.11	7.7	17.7	0	0	0	0	0	0
+"Ballyholme"	0	0	2652	"TRUE"	"FALSE"	"FALSE"	0.106	4.4	15.2	0	0	0	0	0	0
+"Ballymaconnell_1"	0	0	1246	"TRUE"	"TRUE"	"FALSE"	0.094	6	11.9	0	0	0	0	0	0
+"Ballymaconnell_2"	0	0	1475	"TRUE"	"FALSE"	"FALSE"	0.104	1.9	6.6	0	0	0	0	0	0
+"Ballymagee_1"	0	0	1748	"TRUE"	"FALSE"	"FALSE"	0.08	4.6	20.5	0	0	0	0	0	0
+"Ballymagee_2"	0	0	1934	"TRUE"	"FALSE"	"FALSE"	0.102	5.9	52.9	0	0	0	0	0	0
+"Bangor Castle"	0	0	2627	"TRUE"	"FALSE"	"FALSE"	0.118	20.3	45.5	0	2	0	0	0	0
+"Bloomfield_1_NorthDown"	1	0	1724	"TRUE"	"TRUE"	"FALSE"	0.144	23.1	60.6	0	1	1	0	0	0
+"Bloomfield_2_NorthDown"	0	0	2054	"TRUE"	"TRUE"	"FALSE"	0.133	15.8	36.7	0	1	0	0	0	0
+"Broadway_1"	0	0	1420	"TRUE"	"FALSE"	"FALSE"	0.115	6	14.1	0	0	0	0	0	0
+"Broadway_2"	0	0	1425	"TRUE"	"FALSE"	"FALSE"	0.086	2.8	15.2	0	0	0	0	0	0
+"Bryansburn_1"	0	0	1323	"TRUE"	"FALSE"	"FALSE"	0.102	3.8	12.6	0	0	0	0	0	0
+"Bryansburn_2"	0	0	1267	"TRUE"	"FALSE"	"FALSE"	0.101	8.6	23.6	0	0	0	0	0	0
+"Churchill_1"	0	0	1369	"TRUE"	"FALSE"	"FALSE"	0.083	4.7	18.5	0	0	0	0	0	0
+"Churchill_2"	0	0	1448	"TRUE"	"FALSE"	"FALSE"	0.108	7.7	21.7	0	0	0	0	0	0
+"Clandeboye_1"	0	0	1777	"TRUE"	"TRUE"	"FALSE"	0.171	16.8	30.5	0	0	0	0	0	0
+"Clandeboye_2"	0	0	1862	"TRUE"	"FALSE"	"FALSE"	0.114	34.8	32.4	0	0	0	0	0	0
+"Clandeboye_3"	0	0	1255	"TRUE"	"TRUE"	"FALSE"	0.146	11.1	27.1	0	1	0	0	0	0
+"Conlig_1"	0	0	2449	"TRUE"	"TRUE"	"FALSE"	0.142	11	31.6	0	0	0	0	0	0
+"Conlig_2"	0	0	2269	"TRUE"	"FALSE"	"FALSE"	0.119	11.7	30.4	0	0	0	0	0	0
+"Conlig_3"	0	0	1545	"TRUE"	"TRUE"	"FALSE"	0.178	24.2	58.9	0	4	0	0	0	0
+"Craigavad"	0	0	2540	"TRUE"	"FALSE"	"FALSE"	0.096	7	13.3	0	0	0	0	0	0
+"Crawfordsburn"	0	0	2770	"TRUE"	"FALSE"	"FALSE"	0.076	5.3	14.8	0	0	0	0	0	0
+"Cultra"	0	0	2477	"FALSE"	"FALSE"	"FALSE"	0.091	3.9	18.6	0	0	0	0	0	0
+"Dufferin"	1	0	2449	"TRUE"	"TRUE"	"FALSE"	0.13	16.6	39.1	0	3	1	0	0	0
+"Groomsport"	0	0	3005	"TRUE"	"TRUE"	"FALSE"	0.103	3.4	13	0	0	0	0	0	0
+"Harbour_1"	0	0	1495	"TRUE"	"FALSE"	"FALSE"	0.162	90.8	176.1	0	1	0	0	0	0
+"Harbour_2"	0	0	1527	"TRUE"	"FALSE"	"FALSE"	0.122	19.9	52.5	0	0	0	0	0	0
+"Holywood Demesne"	0	0	3012	"TRUE"	"FALSE"	"FALSE"	0.13	10.9	29.2	0	0	0	0	0	0
+"Holywood Priory"	0	0	2675	"TRUE"	"FALSE"	"FALSE"	0.09	8.3	19.7	0	0	0	0	0	0
+"Loughview_1"	0	0	1981	"TRUE"	"FALSE"	"FALSE"	0.164	15.5	30.1	0	1	1	0	0	0
+"Loughview_2"	0	0	1453	"TRUE"	"FALSE"	"FALSE"	0.151	5.3	15.6	0	0	0	0	0	0
+"Princetown"	0	0	2846	"TRUE"	"FALSE"	"FALSE"	0.097	6.1	16.8	0	0	0	0	0	0
+"Rathgael"	0	0	2215	"TRUE"	"FALSE"	"FALSE"	0.142	20.6	32.1	0	0	0	0	0	0
+"Silverstream"	0	0	3155	"TRUE"	"FALSE"	"FALSE"	0.124	13.7	32.6	0	0	0	0	0	0
+"Springhill_1"	0	0	1336	"TRUE"	"FALSE"	"FALSE"	0.07	3	8.8	0	0	0	0	0	0
+"Springhill_2"	0	0	1369	"TRUE"	"FALSE"	"FALSE"	0.113	3.9	18.5	0	0	0	0	0	0
+"Whitehill"	0	0	2469	"TRUE"	"FALSE"	"FALSE"	0.16	15.2	50.8	0	1	0	0	0	0
+"Beragh"	0	0	2508	"FALSE"	"FALSE"	"FALSE"	0.131	6.9	14.4	0	0	0	0	0	0
+"Camowen"	0	0	2283	"TRUE"	"FALSE"	"FALSE"	0.131	14.2	34.6	0	0	0	0	0	0
+"Clanabogan"	0	0	3177	"FALSE"	"FALSE"	"FALSE"	0.134	3.5	4.8	0	0	0	0	0	0
+"Coolnagard"	0	0	3489	"TRUE"	"FALSE"	"FALSE"	0.119	9.5	24.6	0	0	0	0	0	0
+"Dergmoney"	0	0	1675	"TRUE"	"FALSE"	"FALSE"	0.136	66.4	68.4	0	0	0	0	0	0
+"Dromore"	0	0	2394	"FALSE"	"FALSE"	"FALSE"	0.107	12.4	14.4	0	0	0	0	0	0
+"Drumnakilly"	0	1	2916	"FALSE"	"FALSE"	"FALSE"	0.138	3.7	6.1	0	0	0	0	0	0
+"Drumquin"	0	1	2231	"FALSE"	"FALSE"	"FALSE"	0.144	6.5	7.8	0	0	0	0	0	0
+"Drumragh"	0	0	2315	"TRUE"	"FALSE"	"FALSE"	0.115	29.6	42.3	0	0	0	0	0	0
+"Fairy Water"	0	0	2142	"FALSE"	"FALSE"	"FALSE"	0.119	3.6	4.5	0	0	0	0	0	0
+"Fintona"	0	0	2046	"FALSE"	"FALSE"	"FALSE"	0.177	16.7	26.1	0	0	0	0	0	0
+"Gortin"	0	3	2836	"FALSE"	"FALSE"	"FALSE"	0.126	7.6	11.6	0	0	1	0	0	0
+"Gortrush_1"	0	0	1488	"TRUE"	"FALSE"	"TRUE"	0.099	8.5	16.2	0	0	0	0	0	0
+"Gortrush_2"	0	0	1345	"TRUE"	"FALSE"	"FALSE"	0.137	20.2	34.3	0	0	0	0	0	0
+"Killyclogher_1"	0	0	1532	"TRUE"	"FALSE"	"FALSE"	0.151	12.8	27	0	0	0	0	0	0
+"Killyclogher_2"	0	0	1564	"TRUE"	"FALSE"	"TRUE"	0.124	11.4	17.4	0	0	0	0	0	0
+"Lisanelly_1"	0	0	364	"TRUE"	"FALSE"	"FALSE"	0.213	18.2	50.6	0	0	0	0	0	0
+"Lisanelly_2"	0	0	1669	"TRUE"	"FALSE"	"FALSE"	0.188	32.7	74	0	0	0	0	0	0
+"Newtownsaville"	0	0	2392	"FALSE"	"FALSE"	"FALSE"	0.114	4.8	6.4	0	0	0	0	0	0
+"Owenkillew"	0	0	2350	"FALSE"	"FALSE"	"TRUE"	0.16	4.4	5	0	0	0	0	0	0
+"Sixmilecross"	0	0	2374	"FALSE"	"FALSE"	"FALSE"	0.134	4.3	5.5	0	0	0	0	0	0
+"Strule"	0	0	1496	"TRUE"	"FALSE"	"FALSE"	0.148	26.6	32.1	0	0	0	0	0	0
+"Termon"	0	0	2330	"FALSE"	"FALSE"	"TRUE"	0.149	6.4	5.1	0	0	0	0	0	0
+"Trillick"	0	0	2440	"FALSE"	"FALSE"	"FALSE"	0.136	5.3	6.3	0	0	0	0	0	0
+"Artigarvan"	0	0	2760	"FALSE"	"FALSE"	"FALSE"	0.141	5.7	11.7	0	0	0	0	0	0
+"Ballycolman"	0	0	1827	"TRUE"	"FALSE"	"TRUE"	0.207	20.1	26.8	0	0	0	0	0	0
+"Castlederg"	0	3	2109	"FALSE"	"FALSE"	"FALSE"	0.148	21.2	22.6	0	0	0	0	0	0
+"Clare"	0	0	2670	"FALSE"	"FALSE"	"FALSE"	0.139	4.5	5.3	0	0	0	0	0	0
+"Dunnamanagh"	0	0	2187	"FALSE"	"FALSE"	"FALSE"	0.182	5	8.7	0	0	0	0	0	0
+"East"	0	1	1714	"TRUE"	"FALSE"	"TRUE"	0.258	34.3	42.4	0	0	0	0	0	0
+"Finn"	0	0	2807	"FALSE"	"FALSE"	"FALSE"	0.181	6.7	12.7	0	0	0	0	0	0
+"Glenderg"	1	2	2593	"FALSE"	"FALSE"	"FALSE"	0.193	5.8	9.5	0	0	0	0	0	0
+"Newtownstewart"	1	0	2269	"FALSE"	"FALSE"	"FALSE"	0.143	15.4	30.2	0	0	0	0	0	0
+"North"	0	1	3179	"TRUE"	"FALSE"	"TRUE"	0.18	36.9	51.2	0	0	0	0	0	0
+"Plumbridge"	0	0	2223	"FALSE"	"FALSE"	"FALSE"	0.137	3.8	3.7	0	0	0	0	0	0
+"Sion Mills"	0	0	2190	"FALSE"	"FALSE"	"FALSE"	0.144	17.1	30.2	0	0	0	0	0	0
+"Slievekirk"	0	0	2533	"FALSE"	"FALSE"	"FALSE"	0.147	5.1	7.2	0	0	0	0	0	0
+"South_1"	0	0	1876	"TRUE"	"FALSE"	"TRUE"	0.136	15.2	17.1	0	0	0	0	0	0
+"South_2"	0	0	1356	"TRUE"	"FALSE"	"TRUE"	0.123	9.4	17.2	1	0	0	0	0	0
+"Victoria Bridge"	0	0	2288	"FALSE"	"FALSE"	"FALSE"	0.154	7.1	9.4	0	0	0	0	0	0
+"West_1"	0	0	1911	"TRUE"	"FALSE"	"TRUE"	0.177	12	27.9	1	0	0	0	0	0
+"West_2"	0	1	1351	"TRUE"	"FALSE"	"TRUE"	0.143	17.4	40.5	0	0	0	1	0	0
